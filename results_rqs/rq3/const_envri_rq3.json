@@ -1,0 +1,342 @@
+{
+    "files": {
+        "output_429.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_391.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_456.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_468.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_107.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_310.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_180.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_224.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_284.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_165.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_94.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_8.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_152.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_404.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_350.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_280.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_45.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_322.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_401.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_125.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_221.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_58.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_237.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_122.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_228.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_231.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_179.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_252.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_241.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_223.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_173.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_390.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_351.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_493.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_136.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_105.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_269.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_430.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_34.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_227.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_190.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_104.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_312.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_148.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_84.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_359.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_378.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_414.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_162.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_177.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_10.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_505.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_432.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_169.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_212.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_279.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_306.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_91.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_319.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_347.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_285.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_232.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_335.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_208.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_235.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_426.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_311.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_413.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_101.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_172.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_417.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_470.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_142.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_305.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_274.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_174.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_303.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_327.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_156.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        },
+        "output_183.json": {
+            "is_consistent": true,
+            "classification": "Semantic"
+        },
+        "output_43.json": {
+            "is_consistent": false,
+            "classification": "Inconsistent"
+        },
+        "output_167.json": {
+            "is_consistent": true,
+            "classification": "Alphanumeric"
+        }
+    },
+    "summary": {
+        "consistent_count": 66,
+        "inconsistent_count": 16,
+        "class_counts": {
+            "Semantic": 55,
+            "Calendar": 0,
+            "Alphanumeric": 27,
+            "Other": 0
+        }
+    }
+}

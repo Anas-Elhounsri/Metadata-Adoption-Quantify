@@ -1,0 +1,123 @@
+{
+    "description": {
+        "count_short": 17,
+        "count_long": 9
+    },
+    "license": {
+        "spdx": {
+            "count": 17,
+            "licenses": [
+                {
+                    "file": "output_16.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_9.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_22.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_8.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_21.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_19.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_3.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_2.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_7.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_20.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_4.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_11.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_10.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_17.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_5.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_6.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_12.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                }
+            ]
+        },
+        "no_spdx": {
+            "count": 1,
+            "licenses": [
+                {
+                    "file": "output_13.json",
+                    "name": "Unknown License"
+                }
+            ]
+        }
+    },
+    "installation": {
+        "count": 15
+    },
+    "requirements": {
+        "count": 1
+    },
+    "download": {
+        "count": 0
+    },
+    "documentation": {
+        "count": 13
+    },
+    "authors_id": {
+        "count": 0,
+        "files": []
+    }
+}

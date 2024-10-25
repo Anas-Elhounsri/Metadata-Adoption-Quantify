@@ -1,0 +1,2110 @@
+{
+    "description": {
+        "count_short": 393,
+        "count_long": 345
+    },
+    "license": {
+        "spdx": {
+            "count": 408,
+            "licenses": [
+                {
+                    "file": "output_332.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_211.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_240.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_429.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_391.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_186.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_198.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_446.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_456.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_157.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_129.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_309.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_277.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_99.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_171.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_159.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_412.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_90.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_164.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_260.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_107.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_310.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_451.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_352.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_180.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_185.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_355.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_323.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_406.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_140.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_184.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_316.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_143.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_224.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_161.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_360.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_216.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_281.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_13.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_116.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_16.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_126.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_371.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_284.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_193.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_9.json",
+                    "name": "Eclipse Public License 1.0",
+                    "spdx_id": "EPL-1.0"
+                },
+                {
+                    "file": "output_415.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_165.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_366.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_217.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_204.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_155.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_22.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_286.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_394.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_137.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_238.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_244.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_65.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_385.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_57.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_248.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_166.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_163.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_54.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_205.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_176.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_370.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_267.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_242.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_31.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_8.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_301.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_175.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_392.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_377.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_111.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_195.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_50.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_404.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_346.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_280.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_45.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_293.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_21.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_103.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_233.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_322.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_42.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_19.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_354.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_372.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_23.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_219.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_447.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_296.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_115.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_307.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_3.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_345.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_15.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_368.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_257.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_89.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_376.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_271.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_236.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_405.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_230.json",
+                    "name": "GNU Lesser General Public License v3.0",
+                    "spdx_id": "LGPL-3.0"
+                },
+                {
+                    "file": "output_299.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_149.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_283.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_168.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_60.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_401.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_18.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_369.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_448.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_123.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_125.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_191.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_436.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_197.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_144.json",
+                    "name": "GNU Lesser General Public License v3.0",
+                    "spdx_id": "LGPL-3.0"
+                },
+                {
+                    "file": "output_221.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_88.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_287.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_445.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_428.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_253.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_396.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_194.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_386.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_402.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_409.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_333.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_237.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_384.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_24.json",
+                    "name": "GNU Lesser General Public License v3.0",
+                    "spdx_id": "LGPL-3.0"
+                },
+                {
+                    "file": "output_122.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_2.json",
+                    "name": "Artistic License 2.0",
+                    "spdx_id": "Artistic-2.0"
+                },
+                {
+                    "file": "output_255.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_189.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_52.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_365.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_234.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_263.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_419.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_395.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_200.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_133.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_249.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_135.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_108.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_341.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_264.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_464.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_56.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_199.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_324.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_256.json",
+                    "name": "Creative Commons Zero v1.0 Universal",
+                    "spdx_id": "CC0-1.0"
+                },
+                {
+                    "file": "output_7.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_400.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_117.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_179.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_252.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_325.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_33.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_241.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_223.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_382.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_173.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_20.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_64.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_315.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_390.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_68.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_351.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_373.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_425.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_424.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_407.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_53.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_83.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_81.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_349.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_460.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_435.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_136.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_105.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_269.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_61.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_430.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_261.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_73.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_227.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_93.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_190.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_422.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_11.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_25.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_259.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_381.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_72.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_104.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_312.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_119.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_331.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_431.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_423.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_79.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_139.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_77.json",
+                    "name": "BSD 2-Clause \"Simplified\" License",
+                    "spdx_id": "BSD-2-Clause"
+                },
+                {
+                    "file": "output_30.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_148.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_40.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_100.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_59.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_343.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_408.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_86.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_342.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_246.json",
+                    "name": "GNU Lesser General Public License v3.0",
+                    "spdx_id": "LGPL-3.0"
+                },
+                {
+                    "file": "output_84.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_359.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_414.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_389.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_162.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_361.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_38.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_290.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_121.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_275.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_177.json",
+                    "name": "GNU Lesser General Public License v2.1",
+                    "spdx_id": "LGPL-2.1"
+                },
+                {
+                    "file": "output_295.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_380.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_258.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_245.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_393.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_145.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_10.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_266.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_153.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_321.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_292.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_44.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_340.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_210.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_278.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_388.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_432.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_320.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_169.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_150.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_212.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_279.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_49.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_17.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_306.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_203.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_182.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_109.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_91.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_427.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_134.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_218.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_300.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_196.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_276.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_206.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_319.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_418.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_222.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_36.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_92.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_226.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_120.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_247.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_347.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_364.json",
+                    "name": "GNU Lesser General Public License v3.0",
+                    "spdx_id": "LGPL-3.0"
+                },
+                {
+                    "file": "output_318.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_131.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_285.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_128.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_220.json",
+                    "name": "Mozilla Public License 2.0",
+                    "spdx_id": "MPL-2.0"
+                },
+                {
+                    "file": "output_232.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_441.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_110.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_335.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_383.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_208.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_5.json",
+                    "name": "GNU Lesser General Public License v2.1",
+                    "spdx_id": "LGPL-2.1"
+                },
+                {
+                    "file": "output_235.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_188.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_337.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_363.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_426.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_298.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_311.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_308.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_273.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_32.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_250.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_98.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_413.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_146.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_80.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_215.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_437.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_101.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_438.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_399.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_28.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_348.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_397.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_95.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_297.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_51.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_374.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_70.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_114.json",
+                    "name": "GNU Lesser General Public License v3.0",
+                    "spdx_id": "LGPL-3.0"
+                },
+                {
+                    "file": "output_172.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_55.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_417.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_461.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_47.json",
+                    "name": "Creative Commons Attribution 4.0 International",
+                    "spdx_id": "CC-BY-4.0"
+                },
+                {
+                    "file": "output_141.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_379.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_291.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_85.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_334.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_6.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_403.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_367.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_214.json",
+                    "name": "GNU Lesser General Public License v3.0",
+                    "spdx_id": "LGPL-3.0"
+                },
+                {
+                    "file": "output_118.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_243.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_97.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_442.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_326.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_282.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_454.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_37.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_330.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_362.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_304.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_142.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_82.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_192.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_288.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_29.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_178.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_305.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_272.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_317.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_254.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                },
+                {
+                    "file": "output_274.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_411.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_74.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_174.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_303.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_1.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_112.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_63.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_87.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_327.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_102.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_251.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_459.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_356.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_262.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_462.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_160.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_439.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_209.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_158.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_26.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_76.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_268.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_328.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_207.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_62.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_154.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_387.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_420.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_96.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_434.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_127.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_113.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_14.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_450.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_106.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_41.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_151.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_66.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_344.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_183.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_78.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_270.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_71.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_398.json",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION"
+                },
+                {
+                    "file": "output_375.json",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0"
+                },
+                {
+                    "file": "output_48.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_12.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_39.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_147.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_130.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_167.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                }
+            ]
+        },
+        "no_spdx": {
+            "count": 9,
+            "licenses": [
+                {
+                    "file": "output_27.json",
+                    "name": "Unknown License"
+                },
+                {
+                    "file": "output_421.json",
+                    "name": "Unknown License"
+                },
+                {
+                    "file": "output_338.json",
+                    "name": "Unknown License"
+                },
+                {
+                    "file": "output_34.json",
+                    "name": "Unknown License"
+                },
+                {
+                    "file": "output_444.json",
+                    "name": "Unknown License"
+                },
+                {
+                    "file": "output_35.json",
+                    "name": "Unknown License"
+                },
+                {
+                    "file": "output_69.json",
+                    "name": "Unknown License"
+                },
+                {
+                    "file": "output_314.json",
+                    "name": "Unknown License"
+                },
+                {
+                    "file": "output_132.json",
+                    "name": "Unknown License"
+                }
+            ]
+        }
+    },
+    "installation": {
+        "count": 377
+    },
+    "requirements": {
+        "count": 79
+    },
+    "download": {
+        "count": 10
+    },
+    "documentation": {
+        "count": 253
+    },
+    "authors_id": {
+        "count": 0,
+        "files": []
+    }
+}

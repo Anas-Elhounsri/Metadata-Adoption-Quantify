@@ -1,0 +1,2076 @@
+{
+    "results": [
+        {
+            "githublink": "https://github.com/QuantConnect/Research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/packit/research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/unitaryfund/research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/akhilvreddy/ECE491-SpecialProblems",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/meteorids/MLO3",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/schatzlab/biomedicalresearch2017",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/QPower-Research/QPowerAlgo",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/simclr",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/pfnet-research/bayesgrad",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/novonordisk-research/ProcessOptimizer",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/awsm-research/tutorial",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/ml-research/XIConceptLearning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/flashbots/eth2-research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/bareini/CUD-Research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/maxvit",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/orcasound/orcaal-research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/adobe-research/DeepAFx",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/spotify-research/tdsurv",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/panoptic-labs/research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/nateandre/Glaciology-Research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/spotify-research/collabclass",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/rliable",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/evoflow",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/proteinfer",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/ledovsky/eeg-research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/DiffEqML/diffeqml-research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/adobe-research/MakeItTalk",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/rlds",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/megvii-research/CoNR",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yandex-research/navigan",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/quanta-mental/Research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/vision_transformer",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/robustness_metrics",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/khalil-research/PyEPO",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/EddieZhu22/Temperature-Research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/deepmind/deepmind-research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/deep_ope",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/ADA-research/AutoML4HybridEarthScienceModels",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/recsim_ng",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/parabytes/SMA-Research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/kcfraser54/Undergraduate-Research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/ayushanand18/obis-research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/kubric",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/miller2018_Tongariro_SP_inversion",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/pix2seq",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sbrl/research-smflooding",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jmchisho/Groundwater",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/ToyokoLabs/SBG",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/RL-Research-Cohiba/Reinforcement_Learning",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/carsondahlberg/twitter-covid-19",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/valpasq/Beavers",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/GeostatsGuy/Undergraduate_Research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/jolespin/projects",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/rching/EquityVision",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/chrismhl/tsunami",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/eightynine89/machine-learning-research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/licensio/pypi-research-data",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/Freshwater-Initiative/Observatory",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/hanhanwu/Hanhan_NLP",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/haohaom1/BigelowResearch",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/jckantor/ESTM60203",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/GLai19/B9122",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/bstabler/TransportationNetworks",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research-datasets/hiertext",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/The-Singularity-Research/linear_algebra_for_quantum_computing",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/powerpool-finance/powerpool-research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/google-research/si-score",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/Hanson-Research-Lab/TRI_STILT",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/dcellucci/TPMS-Research-Plan",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/social-research/python-workshop",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/nec-research/tf-imle",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/uber-research/intrinsic-dimension",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/stephenslater/Astrophysics-Research-Paper",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/samuelhkahn/ai-albedo-research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/noncesense-research-lab/archival_network",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/jananiarunachalam/Research-Paper-Summarization",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/The-Singularity-Research/cirq_hybrid_codes",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/google-research/episodic-curiosity",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/The-Singularity-Research/SurfaceCodes",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/manningkyle304/edu-research-demo",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/graph-attribution",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/swisscom/ai-research-fairsourcing",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/nec-research/mobility-toolkit",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/google-research-datasets/Objectron",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/michimalek/nlp-clustering-research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/criteo-research/reco-gym",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/robertmartin8/pValuation",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/howardisaacson/Intro-to-Astro2022",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ipozdeev/it-skills-for-research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/tanyhb1/YNC-Ecological-Modelling",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/michhar/useR2016-tutorial-jupyter",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/akverma9/UG-Project",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/SimonAB/Gonzalez-Jimenez_MIRS",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/unerue/or-tutorial",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/quantumiracle/MARS",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Fryingpannn/WallStreetBets_BigDataAnalysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/hab-spc/hab_rnd",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/YKatser/CPDE",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/wetseng/air-pollution-analysis",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/marketneutral/alphatools",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/BorealisAI/advertorch",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/Eguzelyel/Seeker",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/phenology/springtime",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/EarthByte/PlateTectonicTools",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/Qinbf/Detecting",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/dermatologist/nlp-qrmine",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/tomasero/openSleep",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/maleakhiw/Pessimistic-Neighbourhood-Aggregation-for-States-in-Reinforcement-Learning",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/TTitcombe/Model-Inversion-SplitNN",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/smeyer71/ENSO_research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/mlcoursemm/py2020autumn",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/AlexDuvalinho/Explainable-Artificial-Intelligence-XAI-",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/jinmang2/Gachon_Research",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/EdwardRaff/Research-Reproducibility-Survival-Analysis",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/aarongaines/slr_ground_water_quality_",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/barbagroup/essential_skills_RRC",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/JiaRuiShao/WaterShed",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/pgc2113/Research-Computing-Final-Project",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/google-research/computation-thru-dynamics",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/ACM-Research/vr-viewport-analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/heagy-2018-emcyl",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/hannaam/MSci-Biochemistry-Research-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/EI-research-group/deep-ei",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/Astic-2019-PGI",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/google-research/mood-board-search",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ACM-Research/targeted-password-guesses",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/brain-research/guided-evolutionary-strategies",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Mountain-Hydrology-Research-Group/Fluid_Flows",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/google-research/neural-structural-optimization",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/wikimedia-research/Readers-core-metrics",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/wikimedia-research/Readers-movement-metrics",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yolandaycao/Client-Service-Optimization-Research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Humboldt-Penguin/Mars-Magnetics-Research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Humboldt-Penguin/Albedo-Hurricane-Research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/waymo-research/waymo-open-dataset",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aws-samples/aws-research-workshops",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Anthonyive/Research-Mapping-Uncanny-Valley",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/twitter-research/image-crop-analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Spencer-Long/Geothermal-Unrest-Research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/KevinCarr42/Maritimes-Research-Vessel-Surveys",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/oldenburg-2018-AEM",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/bio-ontology-research-group/metabolitenet",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aprilhgshin/Digital-Humanities-Research-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/uber-research/atari-model-zoo",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/cns-iu/ccf-research-ftu",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/groundwater-book-figures",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/heagy-2018-AEM",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Santosh-Gupta/Research2Vec",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/rabernat/research_computing",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Hvass-Labs/FinanceOps",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/alan-turing-institute/rds-course",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/UCL/rsd-engineeringcourse",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/franchesoni/iislib",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/XiRoSe/Hotels-Reservations-Research-and-Analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ERPscanr/ERPscanr",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mdelrosa/wireless-ml",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sriramelango/CNN-Mosquito-Detection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/AYLIEN/fine-grained-event-classification",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/thanhqtran/dataset",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/tk-randhawa/Calculating-Optimal-Perovskite-Crystal-Structures",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/cesar-rocha/UpperOceanSeasonality",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/trinhgiahuy/OpenKinTest",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/atgarcial/rces-final-project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Urban-Analytics/dust",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Vatshayan/IEEE-Projects",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/heagy-2021-tle-casing",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/The-Singularity-Research/QISKit-Surface-Codes",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/heagy-2018-dc-casing",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/google-research/agent-based-epidemic-sim",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/soccer-analytics-research/fot-valuing-actions",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/bio-ontology-research-group/ontology-tutorial",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/heagy-2018-em-casing",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Bramson-Planetary-Research-Group/Mars-Troughs",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/timjancic/climate-research-upslope-flux-methods",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ahc1902/2021-2022-UROP-Marsh-Research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/heagy-2018-fracture-physprops",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/The-Singularity-Research/FinTech-Time-Series",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/google-research/reverse-engineering-neural-networks",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/heagy-2018-injection-inversions",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/epic-research-group/das-to-discharge",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/oklaM/AI-law",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/NOAA-PMEL/EcoFOCIpy",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Brain-Inspired-Computing/Final-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yohaoyu/ClimateGentrificationSF",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jvrana/Terrarium",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/defeo/ffisom",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/eulerlab/open-visual-stimulator",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Vitomir84/Mathematical_research",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/weecology/bbs-forecasting",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/hityingph/Tutorial-on-atomic-simulations",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/alineberry/my-movie-recommender",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Aitslab/corona",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/muellerzr/presentations",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/untrix/im2latex",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/rileyedmunds/complexcnn",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ajfli/Transfer-Learning-Wildlife",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/smoothkt4951/Massive-Data-Processing-Course",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/raulf2012/PROJ_IrOx_OER",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/lockecd/rces-final-project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/charlesfrye/psych101d",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/howardisaacson/Intro-to-Astro-2019",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/NCBI-Hackathons/SRA_Tinder",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/bacchin/chemical_engineering_python",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jaykumar0/serb",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/parsellsx/rces-final-project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/estelle0530/Deep-Learning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/awjuliani/neuro-nav",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Enderrrr-TW/Purdue_every_life",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/rabernat/wind-extremes",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/pgniewko/solubility",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/c-hofer/torchph",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Competencia-de-Climate-Change/Landslide_EarlyDetection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ravising-h/Speech2Face",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/vinsis/math-and-ml-notes",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/shauseth/article-networks",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mattfeng/microbiome",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/lmsasu/MLReadingGroup",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/anmwinter/2ndmeta",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/samzipper/LarnedIntermittencyRegimes",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/WSE-research/QADO-question-answering-dataset-RDFizer",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/shreyasthombare555/Research-Project---Street-lightning-Data-Analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/Herring-2021-Hybrid-ERT-Inversion",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/NVIDIA-Genomics-Research/rapids-single-cell-examples",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aws-samples/research-workshop-fits-datalake-code",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ACM-Research/exoplanet-atmosphere-analysis-with-ML",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/simpeg-research/kang-2019-impact-of-wells",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/global-water-watch/research-reservoir-water-dynamics",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/tombresee/BipedalWalker-v3",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yuwie10/nih-awards",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/MIT-LCP/eicu-code",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/alan-turing-institute/rse-course",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ZiegAnt/ResearchModule",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/bmcfee/ismir2018-oss-tutorial",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/unsplash/datasets",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/maxrjones/MORB-CO2-vesicles",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yohanesnuwara/DASLab",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jvmncs/Contamination",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jupyter-guide/jupyter-guide",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Nesper94/genomeSeq-test",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/gwnrtools/gwnrtools",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sagepublishing/sage_tools_social_science",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/r-a-morrison/fe_alloy_sound_velocities",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/zjeffer/chess-deep-rl",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/efollansbee/Final-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/clinicalml/ml_mmrf",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/RaineyAbe/GEOS505-fall2022",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ZigaSajovic/Readings",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/bgroenks96/generative-downscaling",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/dos-group/lets-wait-awhile",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/pmuens/lab",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/nathanshammah/make-your-code-count",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/KennedyClouds/OSCRE",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/pmelchior/usrp-sciprog",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/spsrc/droplets",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/pedhmendes/ising-dimension-reduction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mitthting/end-to-end_noise-robustness_ASR",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/csun365/Mosquito-Habitat-Prediction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/hoostus/prime-harvesting",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ggdurrant/nfl-qb-shoulder-injuries",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/TomLav/snippets",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/tawells/PETM_LDA",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/dI98Sk/Traiding_Analyse",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/decorrespondent/youtube_extremism",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/alitquan/Computer-Vision-Merchandising-Resets",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/HolderChristopher/linking_intrinsic_and_apparent_relationships",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/seopbo/CS20",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/stephenshank/mutation-selection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/eabarnes1010/ml_tutorial_csu",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/danamlewis/OpenHumansDataTools",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/angelosalatino/csrf",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Rucharailkar/rrailkar-MS-Error-Ellipse-tool",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ericcchase/asd_mri_prediction_modeling",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/analysiscenter/cardio",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/cmergny/EarlyMoon_Evolution",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/UNM-CARC/QuickBytes",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/bio-ontology-research-group/machine-learning-with-ontologies",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/TheProjectsGuy/Learning-Habitat",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/analysiscenter/radio",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/google/dopamine",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/adamnpeace/learned-ct-reconstruction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/alibaba/clusterdata",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/tzw5099/delete-robinhood",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aretu/fracture_energy",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/tensorflow/lucid",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/agu-ossi/2018-agu-oss",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/tg-bomze/NeuralStockPredictor",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yiyuezhuo/Victoria-II-save-file-parser",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Badr-MOUFAD/multivariate-time-series-clustering",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/uatharva/Learning-to-Detect-Heavy-Drinking-Episodes-Using-Smartphone-Accelerometer-Data",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/rmquimby/Astronomical_Techniques",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/raulf2012/Supported_Graphene_2018",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/CassiaCai/MJO_chlorophyll_a_SST",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/nghiahhnguyen/SWHGD",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/hathix/searchbetter",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/wuihee/measuring-carbon-footprints",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/CamHD-Analysis/CamHD_object_identification",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/oxfordinternetinstitute/sds-python",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ecglazer/rces_final_project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/AnasAito/um6p-chemistry-kg",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/thepanacealab/covid19_twitter",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Vatshayan/Telecommunication-Final-Year-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/SMILELab-FL/FedLab",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/anthony-wang/BestPractices",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/JGradone/Slocum-AD2CP",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/thunderhoser/cira_uq4ml",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/andreww/prem4derg",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/guide2157/ChulaXrayClassifier",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/wsular/urbanova-aqnet-rpi-node",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/MIT-LCP/mimic-code",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sbonaretti/pyKNEEr",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/NordicESMhub/RELIANCE",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/po1line/Analytics-on-research-of-pharmaceuticals-entry-in-soils",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/American-Institutes-for-Research/dsaa-cssip-big-data-workbooks",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ssg-research/dawn-dynamic-adversarial-watermarking-of-neural-networks",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/martinfleis/numerical-taxonomy-paper",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jmartinezheras/reproduce-stock-market-direction-random-forests",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Avalon-Benchmark/avalon",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/davidvng/project-dmeff",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Jash-2000/Autonomous-Navigation-of-Self-Balancing-Segway",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/andres-patrignani/pynotes",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/pabloinsente/sf_for_beh_ss",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/podaac/MEaSUREs-SSH",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/arabiaweather/athena",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Danielmoraisg/Master-degree",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/LorenFrankLab/spyglass",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mitre-attack/attack-datasources",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sho-kawano/plots_galore",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Valdinious/Carbon-Footprint-Multi-Agent-Reinforcement-Learning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yzerlaut/notebook_papers",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/trashbirdecology/bbl_xdd",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/baubels/stuod_cyclone",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/TiesdeKok/LearnPythonforResearch",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/agrogeophy/catalog",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/MatteoRomiti/Sextortion_Spam_Bitcoin",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ShreyPandit/Ablation-Cam",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sarahgarre/onderzoekskouter_water",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mlmldata2018/Coral-Bleaching-Project-MS263",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/DominikStiller/tudelft-hpb-project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/e-lubrini/psylve",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/thefonseca/predictive-coding",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/TobbeTripitaka/ant_lithosphere",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/IvLabs/Quantum-Machine-Learning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/lukassnoek/introPy",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/trashbirdecology/bbs_xdd",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mkschleg/RLTutorial.jl",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/IntelLabs/distiller",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jnsofini/Computed-Tomography",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/rajaswa/feedback-and-memory-in-transformers",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/robisonJohn/Blockchain-Governance-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/papari1123/Research-of-Particulate-Matter-Prediction-Modeling-Based-on-Deep-Learning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/akon1te/Whale-detection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/TravorLZH/pm25",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/talisma-cassoma/UnderWaterDrone-D-OceanLab",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/krassowski/multi-omics-state-of-the-field",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/INDIG0N/anemia_data",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/fanweiya/Fish-Fine-Grained-Recognition",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Travis024/Comparison-of-Methods-for-Estimating-Future-Flood-Risk-in-New-Orleans-Louisiana",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mpudil/projects",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/SunnyShikhar/music-datamining",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aakash791/Epileptic_Seizures_Prediction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/iris-keizer/Thesis-KNMI",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/protocol/CryptoEconLab",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/gumption/Python_for_Data_Science",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/consoledotdev/mars-internet",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/PaulNantas/LOCEAN-SuperResolution_Algorithm",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/codykingham/Verb_in_Biblical_Hebrew",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/brazil-data-cube/wlts-paper",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/MHassaanButt/FCHCNN-for-HSIC",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/whigg/Wave_Climatology",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/softwareunderground/subsurface-journal",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/marinadunn/thesis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/martinfleis/evolution-gean",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/microsoft/CyberBattleSim",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/emmanuel-123tech/AI4D-Africa-s-Anglophone-Research-Lab-Tanzania-Tourism-Classification-Challenge",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mikemikezhu/topic_modelling_covid19",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/MarcelinoV/HATLab_REU",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/anamarina/RecSys_course",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/kejihela/INTEGRATION-OF-FACE-VERIFICATION-WITH-SMART-CARD-READER-FOR-ELECTORAL-PROCESS-IN-NIGERIA.",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/lestercardoz11/fault-detection-for-predictive-maintenance-in-industry-4.0",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/kensukename2/Naito_Parker_JGRES_Bankfull_characteristics_model",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/DSSR2/gaze-track",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/howon-kim/Urban-Data-Analytics",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/kraj593/novel_two_stage",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mailemccann/coastalimagelib",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/elangovana/PPI-typed-relation-extractor",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/GDSL-UL/sat_cnn",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/eleanorlutz/aedes-aegypti-2019",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/earthpulse/pytorch_eo",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/nav-e/machine-learning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jdiaz4302/VolcanoesIR",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/INASIC/conus-exogenomics",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/GoogleCloudPlatform/t5x-on-vertex-ai",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/AJueling/python_climate_physics",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ChristeenTJose/Recognition-of-rarest-butterfly---Palos-Verdes-Blue",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/lucaspauker/hmi-time-series-analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Fabioconti99/RT1_Assignment_3",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/graphcore/ogb-lsc-pcqm4mv2",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ncoop57/tango",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/antellgc/HIV-Tat-Neuro",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/yohman/21W-UP206A",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/spyrostheodoridis/Genetic-geography-of-terrestrial-mammals",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Cvrane/ChartReader",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ealcobaca/mlglass",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Shivani-781/Ganga-Water-Quality-Assessment",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ericardomuten/qcnn-hep",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ecmwf-lab/med-extreme-prec-atm-patterns",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/NCAR/pi-wrf",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Adrian-Rae-19004029/Universal-function-approximation-over-sets",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ddasilva/dmsp-dispersion-detection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/bancorprotocol/carbon-simulator",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/leap-stc/LEAPCourse-Climate-Pred-Challenges",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Beximus/ResearchPortfolioCode",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ethan-campbell/Weddell_phyto_paper",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ai-systems/DILP-Core",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/LaviSchlyter/research_course_coral",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/SefiHendry/NASA-Heat-Maps-Prediction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/GuilleMarc/CoverCrops_ML_Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/idanhoro/NASA-Heat-Maps-Prediction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/LiekeLokin/DuneDataAnalysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/nyupredocs/githubtutorial",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/TQRG/security-patches-dataset",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/poppy-project/poppy-humanoid",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/droidy12527/DeepLearningModelComparision",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/poppy-project/poppy-torso",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/stevenrouk/evolution-of-machine-learning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/EricElmoznino/qualia_and_dynamics",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/gmum/umwpl2021",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Hafsah2020/Outreachy_Hafsah_Anibaba_2022",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/SulemanHamdani/Hong-Kong-s-River-dataset-cleaning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mkirby42/PyISRU",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/micheofire/Oil-production-forecast",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/gcoelho2/precip_change",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Iman-L/Outreachy_iman_linje_2022",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/bakrianoo/aravec",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/rahulgaikwad2010/facial-expression-recognition-deep-learning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/TMURS/Google-Earth-Engine",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Nikoletos-K/QA-with-SBERT-for-CORD19",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/kavisek/fraud-detection-capstone",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sayalaruano/MidtermProject-MLZoomCamp",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/vandana28/Analysis-of-Climate-Change-and-its-Potential-Impacts",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Roshanmahes/Python-for-Teachers",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/moritzmeister/flinkanonymity",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/hasnainnaeem/PlotPricePrediction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/k3nnethfrancis/project-lion",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/KILBAHA/Neuroblastoma-Transcriptomic-Analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sunilbelde/Imagedenoising-dncnn-ridnet-keras",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/The-Art-of-Hacking/h4cker",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/SMPyBandits/SMPyBandits",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/harshnirajsheth/Predicting-the-life-cycle-of-lithium-ion-batteries-using-degradation-data",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mddesta/Political-Advertisement-in-US",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aymane399/Machine-learning-on-Neuroscience-datasets",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/oceanhackweek/ohw21_proj_tag_data",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sazio/Transients",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/arsena-k/Word2Vec-bias-extraction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/KoksiHub/APPFD_FK_GMM-Method-For-SHREC-2021-Surface-based-Protein-Domains-Retrieval",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Evm7/Tutorials-Computer-Vision",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/mittrayash/Parkinson-s-Disease-Detection-using-Gait-Analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/prateekjoshi565/Community_Detection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/geeky-bit/SVR--Decision-Trees--Random-Forests--DeepNeuralNets--to-PREDICT-FOREST-FIRES",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/DiSSCo/envri-fair-use-case",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/luiscib3r/Solar-Rad-Forecasting",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/JRCSTU/gearshift_calculation_tool",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/gohollyo/Synestia",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/alisonsoong/NASA-SEES-2021-Emergency-Preparedness",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/codebotx/Bird-Migration-data-analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/onc-healthit/2021PCOR-ML-AI",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/davidt964/Mangrove-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/LaserStefan/IchbinHanna",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Alhaji-trujillo/SWOT-Module--Anisotropic-Diffusion",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/JuanHigueraC/Statistical-mechanics-and-network-science-for-the-simulation-of-injuries-in-the-human-brain",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/paveethranswam/Diet-Nutrition-and-Foods-recommendation-for-Cancer-Patients-and-extend-this-to-build-as-application",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/alessandromonolo/Harmful-days-classification-model",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/krishnaaxo/Ozone_detection_using_AI",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/lecritch/Rate-5-Get-5-Movie-Recommendation-System",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aaditya-pdgupta/neural_network_in_biology",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/KarimMAJDOUB/Volve-field-machine-learning",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Bruce114996/ClimatePredictionChallengesProject3",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/pjsimmon/E4E_Smartfin",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Mordant-Black/Sentiment-Bitcoin",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/johnyj02/Cloud_detection_through_semantic_segmentation",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jackline-ngenia/Food-Carbon-Food-Print-Project",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/AmirAli5/100DaysOfMLCode",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/rubenandrebarreiro/summer-school-on-quantum-computing-software-for-near-term-quantum-devices-2020",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/microsoft/EconML",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/g-divya/heart-disease-predictor",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/disojn/Healthcare-Analysis",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ncanha/ONA-algorithm-in-Python-for-BC-data-noise-reduction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Ibrahim-netizen/Fake-news-Detection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/danielchristopher513/Data_analytics_team_atom",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/sidmulajkar/sentiment-predictor-for-stress-detection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/dnyanshwalwadkar/Happywhale-Whale-and-Dolphin-Identification",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/superhen/Automated-Job-Resume-Matching-Solution",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/metemaad/HURDAT2_processor",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/anushabharati/DataAnalysisusingPython",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Sangramsingkayte/Stroke-Prediction",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/abebual/Predicting-ICU-Patient-Clinical-Deterioration---Report",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/ruminaviciute/japan-youth-unemployment-modeling",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/AdityaRaj028/Design-of-Algorithm-for-Detection-of-Myocardial-Infarction-using-ECG-Signals",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/jojo62000/Learn-Keras-for-Deep-Neural-Networks",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/waleblaq/planet-understanding-the-amazon-from-space",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/venkatFontbonne/Drowsiness",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/muhammadsohaib60/Urdu-OCR",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/Vu5e/JobFailurePredictionGoogleTraces2019",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/RajathAkshay/Sentiment-Classification-for-Product-Reviews",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/kietnv/vireader",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/MengchuanFu/Suspecious-Apps-Detection",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/shishirdas/Rain-Fall_Data_Analysis_Using_Data_Science",
+            "in_swh": false
+        }
+    ],
+    "summary": {
+        "count_in_swh": 97,
+        "count_not_in_swh": 419
+    },
+    "links_swh": {
+        "count": 0,
+        "files": []
+    }
+}

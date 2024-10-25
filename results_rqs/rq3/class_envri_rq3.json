@@ -1,0 +1,1666 @@
+{
+    "releases": {
+        "count": 82,
+        "versions": [
+            {
+                "output_429.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_391.json": [
+                    {
+                        "version": "3.0",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "1.0",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "0.6.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.5.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_456.json": [
+                    {
+                        "version": "v0.9.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_468.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_107.json": [
+                    {
+                        "version": "3.8.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "3.8.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "3.8.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "3.8.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "3.7.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "3.7.5",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_310.json": [
+                    {
+                        "version": "v2.5.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.4.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.3.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.2.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.4.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.4.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.4",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v1.3",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v1.2",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_180.json": [
+                    {
+                        "version": "0.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_224.json": [
+                    {
+                        "version": "v2022.12.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2022.08.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2022.02.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2021.12.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2021.06.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2021.03.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_284.json": [
+                    {
+                        "version": "v1.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_165.json": [
+                    {
+                        "version": "v0.2",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_94.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_8.json": [
+                    {
+                        "version": "1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_152.json": [
+                    {
+                        "version": "2021_11_delivery",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_404.json": [
+                    {
+                        "version": "v0.0.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_350.json": [
+                    {
+                        "version": "v1.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_280.json": [
+                    {
+                        "version": "v2",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v1",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_45.json": [
+                    {
+                        "version": "v0.3.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.2",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_322.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_401.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_125.json": [
+                    {
+                        "version": "0.0.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_221.json": [
+                    {
+                        "version": "0.2.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.2.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_58.json": [
+                    {
+                        "version": "v0.2.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.11",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.10",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.9",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.8-alpha",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.6-alpha",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.5-alpha",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_237.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_122.json": [
+                    {
+                        "version": "0.0.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_228.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_231.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_179.json": [
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.13",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.12",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.11",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.9",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.8",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.7",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.5",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.4",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_252.json": [
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_241.json": [
+                    {
+                        "version": "v2021.09.20",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2020.10.30",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_223.json": [
+                    {
+                        "version": "v1.0.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_173.json": [
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_390.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_351.json": [
+                    {
+                        "version": "v0.3.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_493.json": [
+                    {
+                        "version": "v0.15.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.15.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.15.0b1",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.14.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.14.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.13.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.13.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.12.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.12.0b6",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.12.0b5",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.12.0b4",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.12.0b3",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.12.0b2",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.12.0b1",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.11.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.11.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.10.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.0b1",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.8.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.8.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.8.0b1",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.7.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.7.0b1",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.6.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.6",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.5",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.4",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_136.json": [
+                    {
+                        "version": "v1.6.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.6.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_105.json": [
+                    {
+                        "version": "v0.4.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.4",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_269.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_430.json": [
+                    {
+                        "version": "4.0.0-beta",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "3.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "1.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "hardware_1.0.1",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "official_1.0_hardware_release",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_34.json": [
+                    {
+                        "version": "v0.3.9",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.8a",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.3.8",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.7",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.5",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.2.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_227.json": [
+                    {
+                        "version": "0.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_190.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "resubmitted",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "initial-submission",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "test",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_104.json": [
+                    {
+                        "version": "v0.2.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.2.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_312.json": [
+                    {
+                        "version": "0.2",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_148.json": [
+                    {
+                        "version": "0.0.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_84.json": [
+                    {
+                        "version": "v0.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_359.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_378.json": [
+                    {
+                        "version": "archive",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_414.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "1.0.0-beta",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_162.json": [
+                    {
+                        "version": "v1.1",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_177.json": [
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_10.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.5",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.8.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.8.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.7.8",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.7.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.7.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.7.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.7.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.6.3",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_505.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_432.json": [
+                    {
+                        "version": "4.0.0-beta",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "3.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "1.0.2gm",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "official_1.0_hardware_release",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_169.json": [
+                    {
+                        "version": "0.0.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_212.json": [
+                    {
+                        "version": "icml2019_code_release",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_279.json": [
+                    {
+                        "version": "0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_306.json": [
+                    {
+                        "version": "v2.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_91.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_319.json": [
+                    {
+                        "version": "demo",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_347.json": [
+                    {
+                        "version": "v0.2.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_285.json": [
+                    {
+                        "version": "v0.3.10",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.9-alpha",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.8",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.7",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.2.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0rc0",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.0.8",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.7",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.5",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_232.json": [
+                    {
+                        "version": "delivery-2022-11",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "delivery-2022-01",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_335.json": [
+                    {
+                        "version": "v0.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_208.json": [
+                    {
+                        "version": "v2.3.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v2.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.5",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.5.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.4.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.3.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.12.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.11.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.10.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.9.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.8.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.7.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.7.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.6.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.5.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.4.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.4.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.3.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.2.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_235.json": [
+                    {
+                        "version": "1.2.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "1.2.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "1.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "1.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "1.0.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_426.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_311.json": [
+                    {
+                        "version": "v0.0.6.3",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v0.0.5",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_413.json": [
+                    {
+                        "version": "3.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "2.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_101.json": [
+                    {
+                        "version": "0.10",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_172.json": [
+                    {
+                        "version": "v1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_417.json": [
+                    {
+                        "version": "v2.3",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v2.2",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v2.0",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v1.3",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v1.2",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_470.json": [
+                    {
+                        "version": "v1.1.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.1.2.1",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v1.1.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0.0.dev0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_142.json": [
+                    {
+                        "version": "1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_305.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_274.json": [
+                    {
+                        "version": "0.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.1.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_174.json": [
+                    {
+                        "version": "v1.0.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_303.json": [
+                    {
+                        "version": "v1.3.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.2.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.2.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.1.5",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.1.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v1.0-beta",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "v1.0-alpha",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_327.json": [
+                    {
+                        "version": "0.5.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.5.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.5.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "0.5.0",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_156.json": [
+                    {
+                        "version": "3.0",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "2.0",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "1.0",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_183.json": [
+                    {
+                        "version": "v0.1.9",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.8",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.7",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.5",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1.0",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.7",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.6",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.5",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.4",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.3",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.2",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.0.1",
+                        "classification": "Semantic"
+                    }
+                ]
+            },
+            {
+                "output_43.json": [
+                    {
+                        "version": "v0.1.1",
+                        "classification": "Semantic"
+                    },
+                    {
+                        "version": "v0.1",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            },
+            {
+                "output_167.json": [
+                    {
+                        "version": "update-environment",
+                        "classification": "Alphanumeric"
+                    },
+                    {
+                        "version": "final-submission",
+                        "classification": "Alphanumeric"
+                    }
+                ]
+            }
+        ]
+    },
+    "None": {
+        "count": 430
+    }
+}

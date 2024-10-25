@@ -1,0 +1,92 @@
+{
+    "results": [
+        {
+            "githublink": "https://github.com/cds-astro/cds-moc-rust",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/cds-astro/cds-moc-rust/blob/main/README.md",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/cds-astro/mocpy/tree/v0.15.0",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/R3BRootGroup/R3BRoot/tree/jun24",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/explore-platform/g-tomo/tree/v2",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/AMIGA-IAA/hcg-16/tree/v1.2.3",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/cds-astro/aladin-lite/tree/3.3.2",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/gammapy/gammapy/tree/v1.2",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://gitlab.com/escape-ossr/eossr",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://gitlab.com/escape-ossr/eossr/-/blob/master/README.md",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/FairRootGroup/FairMQ/",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aardk/jupyter-casa/",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/aardk/jupyter-casa/blob/master/README.md",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/cosimoNigro/agnpy",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/cds-astro/tutorials/tree/v1.0.3",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/javierrico/gLike",
+            "in_swh": true
+        },
+        {
+            "githublink": "https://github.com/javierrico/gLike#readme",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/IndexedConv/IndexedConv/tree/v1.3.2",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/escape2020/school2022/tree/v1.0",
+            "in_swh": false
+        },
+        {
+            "githublink": "https://github.com/JColl88/sdc1-solution-binder/tree/1.0.0",
+            "in_swh": false
+        }
+    ],
+    "summary": {
+        "count_in_swh": 4,
+        "count_not_in_swh": 16
+    },
+    "links_swh": {
+        "count": 0,
+        "files": []
+    }
+}

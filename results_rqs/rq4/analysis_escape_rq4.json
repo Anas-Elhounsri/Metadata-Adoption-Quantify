@@ -1,0 +1,118 @@
+{
+    "description": {
+        "count_short": 16,
+        "count_long": 13
+    },
+    "license": {
+        "spdx": {
+            "count": 16,
+            "licenses": [
+                {
+                    "file": "output_16.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_8.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_19.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_3.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_15.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_18.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_7.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_20.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_4.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_11.json",
+                    "name": "GNU Lesser General Public License v3.0",
+                    "spdx_id": "LGPL-3.0"
+                },
+                {
+                    "file": "output_17.json",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0"
+                },
+                {
+                    "file": "output_5.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_6.json",
+                    "name": "MIT License",
+                    "spdx_id": "MIT"
+                },
+                {
+                    "file": "output_1.json",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0"
+                },
+                {
+                    "file": "output_14.json",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause"
+                },
+                {
+                    "file": "output_12.json",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0"
+                }
+            ]
+        },
+        "no_spdx": {
+            "count": 1,
+            "licenses": [
+                {
+                    "file": "output_9.json",
+                    "name": "Unknown License"
+                }
+            ]
+        }
+    },
+    "installation": {
+        "count": 16
+    },
+    "requirements": {
+        "count": 6
+    },
+    "download": {
+        "count": 1
+    },
+    "documentation": {
+        "count": 8
+    },
+    "authors_id": {
+        "count": 0,
+        "files": []
+    }
+}
