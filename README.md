@@ -9,8 +9,6 @@ This software extracts relevant data from SOMEF (Software Metadata Extraction Fr
 - [Installation](#installation)
 - [Usage](#usage)
 - [Output Format](#output-format)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Software
 
