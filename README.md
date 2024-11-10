@@ -1,3 +1,5 @@
+> [!WARNING]
+> This is still in progress and subject to change, as additional requirements may arise.
 # FAIR-Quantify
 
 This software extracts relevant data from SOMEF (Software Metadata Extraction Framework) results to answer specific research questions. The extracted insights are returned as structured JSON files, allowing easy integration and analysis.
