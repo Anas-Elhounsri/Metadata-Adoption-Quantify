@@ -25,7 +25,7 @@ This software is tailored to answer the following research questions:
 5. RQ5: What are the most common citation practices among the communities?
 
 ## Features
-- Extract metadata from repositories using SOMEF
+- Extract metadata from repositories using SOMEF.
 - Extracts and processes metadata from SOMEF results.
 - Filters information relevant to specific research questions.
 - Outputs the results as structured JSON files for easy review and further analysis.
