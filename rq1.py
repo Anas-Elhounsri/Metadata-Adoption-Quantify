@@ -11,7 +11,7 @@ result = {
     "authors": {"count": 0, "files": []},
     "contributors": {"count": 0},
     "license": {"count": 0},
-    "codemeta.json": {"count": 0, "files": []},
+    "codemeta.json": {"count": 0, "files": [], "referencePublication": 0},
     "zenodo.json": {"count": 0, "files": []},
     "identifier_extract": {"count": 0, "extracted_values": []},
     "None": {"count": 0}
@@ -20,7 +20,6 @@ result = {
 def rq1(directory, temp_dir, missing_key, output_file, output_directory):
 
     for file_name in os.listdir(directory):
-
         if file_name.startswith("output_") and file_name.endswith(".json"):
             file_path = os.path.join(directory, file_name)
             
@@ -64,14 +63,26 @@ def rq1(directory, temp_dir, missing_key, output_file, output_directory):
             if all_keys_missing:
                 result['None']['count'] += 1
 
-    packages = ["setup.cfg", "	setup.py", "Cargo.toml", "pom.xml", "bower.json", "package.json",
-                     "composer.json", "DESCRIPTION.txt", "package.json", "	Project.toml", '"nombre".cabal.', '"nombre".gemspec']
+    packages = ["setup.cfg", "setup.py", "Cargo.toml", "pom.xml", "bower.json", "package.json",
+                     "composer.json", "DESCRIPTION.txt", "package.json", "Project.toml", '"nombre".cabal.', '"nombre".gemspec']
     
     for root, dirs, files in os.walk(temp_dir):
+        found_package = False
+
         if "codemeta.json" in files:
+            codemeta_path = os.path.join(root, "codemeta.json")
             result["codemeta.json"]["count"] += 1
-            result["codemeta.json"]["files"].append(os.path.join(root, "codemeta.json"))
+            result["codemeta.json"]["files"].append(codemeta_path)
             print(f"Found codemeta.json in {root}")
+
+            try:
+                with open(codemeta_path, 'r') as codemeta_file:
+                    codemeta_data = json.load(codemeta_file)
+                    if "referencePublication" in codemeta_data:
+                        result["codemeta.json"]["referencePublication"] += 1
+                        print(f"referencePublication found in {codemeta_path}")
+            except json.JSONDecodeError as e:
+                print(f"Error decoding JSON in file {codemeta_path}: {e}")
 
         if ".zenodo.json" in files:
             result["zenodo.json"]["count"] += 1
@@ -87,7 +98,11 @@ def rq1(directory, temp_dir, missing_key, output_file, output_directory):
             if package in files:
                 result["package"]["count"] += 1
                 result["package"]["files"].append(os.path.join(root, package))
-                break
+                found_package = True
+                break  
+
+        if found_package:
+            dirs[:] = [] 
 
     os.makedirs(output_directory, exist_ok=True)
     output_path = os.path.join(output_directory, output_file)
@@ -103,4 +118,3 @@ output_file = input("Please name your output file: ")
 output_directory = input("Please input your output directory: ")
 
 rq1(directory, temp_dir, missing_key, output_file, output_directory)
-

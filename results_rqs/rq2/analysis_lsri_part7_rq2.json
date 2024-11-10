@@ -1,0 +1,4812 @@
+{
+    "results": [
+        {
+            "github_link": "https://github.com/Amitai88/miRmedon",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/juliayyan/PhylogeneticTrees.jl",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MindAI/MiPepid",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/algoromics/miodin",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/COMBINE-lab/minnow",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jvolkening/minion_bacterial",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/YeoLab/MINES.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/luetge/flagser",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/danchubb/FixVAF",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kjaqaman/FISIK",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cgab-ncc/FIREVAT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/anyouwang/finet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/J35P312/FindSV",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hsueh-lab/FFT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jeffpkamp/FFPEcap-seq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/abhi4ssj/few-shot-segmentation",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/khanhlee/fertility-gru",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Arkadiy-Garber/FeGenie",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bishun945/FCMm",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MilpiedLab/FB5P-seq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/khaled-rahman/FastFeatGen",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/smithlabcode/falco",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/FAIRMetrics/Metrics",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MIC-DKFZ/TractSeg",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/FACS-Antimicrobial-Peptides-Prospection/FACS/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/Henrik86/Topological-tumour-graphs",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/3d-pli/FAConstructor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/WhiteleyLab/Tn-seq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/emmawahl/facepai",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cbg-ethz/timeseriesNEM",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/DeniseCaiLab/ezTrack",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/yangao07/TideHunter",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/JoanaGodinho/ext-ZINBayes",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gao-lab/ePooling",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Illumina/ExpansionHunterDenovo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/regulomics/expansion-network",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ivanovaos/PetriNetExhaustiveSimulator",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sysbio-curie/exact-stoch-log-mod",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mbglab/EVR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MathOnco/EvoFreq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mmagnus/EvoClustRNA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BrooksLabUCSC/eVIP2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Sage-Bionetworks/EvidenceAggregatedDriverRanking",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mizunokei/eVIDENCE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/aauss/EventEpi",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cskyan/evntextrc",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/paul-buerkner/thurstonianIRT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/suyufeng/ThermoNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xuyanbuaa/THBP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/BDanalysis/ERINS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/liujunfengtop/Episo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gersteinlab/texp",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sbauldry/tetrad",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zhangrengang/TEsorter",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tomkurowski/tersect",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BenoitCastandet/Terminome_Seq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/randel/MIND",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/neogilab/MiDRMPol",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/klincke/MicroWineBar",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zifanzhu/MicroPro",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/johnathanlo/micRocounter",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/korcsmarosgroup/HMIpipeline",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ProteinLocator/MIC_Locator",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bialimed/miams",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/abu-compbio/MEXCOwalk",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hasaniqbal777/MetumpX-bin",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/elnitskilab/MethylToSNP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/stephaniehicks/methylCC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wdecoster/methplotlib",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/romain-laurent/MetHis",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/metgem/metgem/releases",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/koszullab/metaTOR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cjneely10/MetaSanity",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mohimanilab/MetaMiner",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AuReMe/metage2metabo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xiaoli-dong/metaerg",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/molleraj/MetaCRAST",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/marbl/MetaCarvel",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/elizabethmcd/metabolisHMM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/baranwa2/MetabolicPathwayPrediction",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/the-metabolic-disassembler/metadisassembler",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AnantharamanLab/METABOLIC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cdmuir/tealeaves-ms",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/noble-research-institute/TDNAscan",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/csoderlund/TCW",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lrgr/tcsm",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Lowpassfilter/tCNNS-Project",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bielcardona/TCGenerators",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mehdiforoozandeh/TAXyl",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tada-alg/TADA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LoopGan/TAD-Lactuca",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/azevedolab/taba",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dulei323/TMTSCCA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GonzalezLab/T-lex3",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yu-lab-vt/SynQuant",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ChuangLi99/SWPepNovo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Rinoahu/SwiftOrtho",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/barakgilboa/SWiFi-software",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mengjintao/SWAPCounter",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/kmuthusi/generic-sas-macros",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/llecompte/SVJedi.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/damienArnol/svca",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/EpiBlake/SVants",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jianlin-cheng/SuperCryoEMPicker",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/Henrik86/SuperCRF",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/aamir-mustafa/super-resolution-adversarial-defense",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ococrook/sugsvarsel",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/QUST-AIBBDRC/SubMito-XGBoost/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/gloewing/studyStrap",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dqwei-lab/STS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/leylabmpi/Struo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CarlborgGenomics/Stripes",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bhi-kimlab/StressGenePred",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dpseidel/stmove",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jordanlab/STing",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/thomasdenecker/START-R",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/icbm-iupui/STAFF",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ahvdk/SSNpipe",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ekraka/SSnet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/brossetti/ssasu",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hzy95/EPIVAN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sailalithabollepalli/EpiSmokEr",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/harmancilab/EpiSAFARI",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/skoklab/EpiMethylTag",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/imbbLab/EPIGENE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/m4merg/EphaGen",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/EnTAP/EnTAP",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/keunwan-kist/ECBS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xy-chen16/EnClaSC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/beamandrew/cui2vec",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ExaScience/elprep",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/svndl/EEGSourceSim",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/oushujun/EDTA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bhusain/EdgeScaping",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/djpt999/ECOTOOL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/daifengwanglab/ECMarker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/delosh653/ECHO",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yinlabniu/eCAMI",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/EvansGao/EAGLE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vanNimwegenLab/E-Flow",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/qibebt-bioinfo/dynamic-meta-storms",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BagheriLab/DUETT",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com//a96123155/DTI-CDF",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/gyulap/sRNA_content_of_FPLC_fractions",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/roblanf/SRHtests",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Dalton386/SPM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/aaiitggrp/SpliceVisuL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/raphaelleman/SpliceLauncher",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/flevet/SpineJ",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/schmidt-lab/SPINE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LM-UGent/SPeDE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bittremieux/spectrum_utils",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BIRL/SPECTRUM/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/TavorB/spectral_jaccard_similarity",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/akiyamalab/SPDRank",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ashleylqx/STRA-Net",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/HamidMushtaq/SparkGA2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/harbourlab/SparK",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/soedinglab/merlot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zaandahl/mercat",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ih-lab/Meltos",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/HKU-BAL/megagta",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/chentao1999/MedicalRelationExtraction",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ignaciot/MechSpy",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/szymonzaczek/MDMS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kevinmcgregor/mdine",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rinikerlab/mdfptools/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/cuppeanuts/MDCAP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/elkebir-group/MCT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/RezaMash/MCS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dd-harp/MBITES/tree/v1.0/MBITES",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/NooshinSh/Matched_Forest",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/biocorecrg/master_of_pores",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/daviddesancho/MasterMSM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lpdi-epfl/masif",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/icthrm/joint-marker-free-alignment",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MariaOsmala/preprint",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/de-Bivort-Lab/margo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/alpatania/AHBA_microarray_Mapper/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/hsinnan75/MapCaller",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CHLoschen/mamba",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pradlanka/malini",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/dspoel/soup",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/venyao/MaizeSNPDB",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/liliulab/magos",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jchow32/magi-s",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/muntisa/goat-bones-machine-learning",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/clauswilke/MACV_SMD",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jeppevinther/m7g_map_seq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zy26/M3S",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/opnumten/M-TRACK",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/uqzqiao/M-GCTA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Juliacvk/LuxR_H-NS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tobiasgf/lulu",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ELELAB/LUAD_LUSC_TCGA_comparison",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zy26/LTMGSCA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/carlosj-rr/LSx",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rajkumar1501/sequence-prediction-using-CNN-and-LSTMs",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mutwil/LSTrAP-Lite",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Cassie94/LSTD/tree/lstd",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/zhanglu295/LRTK-SIM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/shingocat/lrscaf",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mingjingsi/LPM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ruoqi-liu/LP-SDA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LOTUSproject/LOTUS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Jane110111107/DTA-SiST",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mskilab/dryclean",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/hart-lab/drugz",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/muntisa/machine-learning-for-druggable-proteins",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/marcrusso/DROPA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/JianingXi/DriverSub",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/its-likeli-jeff/LLCT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MarJakubec/LipMat",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kuijjerlab/lionessR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ronaldolab/DrDiff",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lauzingaretti/LinkHD",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Yi-Jiang/DRAMS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rkuplicki/LIBR_MOCD",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/samansalike/DR-thermo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GabrielBalabanResearch/lgemri_scar_metrics",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gersteinlab/LESSeq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lichen2018/LEMON",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/alanrogers/legofit",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LoaloaF/DPre",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/shubhamchandak94/LDPC_DNA_storage",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tanviralambd/LD/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/LieberInstitute/dotdotdot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ArnaudDroitLab/LD-annot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/billzyx/LCA-CNN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/michellejlin/lava",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Aiying0512/LGCM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Pappulab/LASSI",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/thomshaw92/LASHiS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/clicumu/doepipeline",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/edukait/laocoon",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AstexUK/ESP_DNN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/recleelab/dNEMO-0.9.0",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/reinhardh/dna_rs_coding",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/qzhang314/DNAm-based-age-predictor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/psipred/DMPfold",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AthenaEPI/dmipy",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GuoliangLi-HZAU/DLO-Hi-C-Tool",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AllenCellModeling/DLITE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sysu-yanglab/DLIGAND2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/naturalis/trait-geo-diverse-dl",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rasmushenningsson/DISSEQT.jl",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/makovalab-psu/DiscoverY",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dlcarper/DISCo-microbe",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Mohammad-Vahed/DIpartite",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cartof/digitalDLSorter",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/michbur/digilogger",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/haochenucr/DIFFUSE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/shivram1987/diffGrad",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/marcalva/diem",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vdemichev/diann",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/hitbc/deSAMBA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ydLiu-HIT/deSALT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BiomedicalMachineLearning/SpaCell",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/BioHPC/SORA",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/brentp/somalier",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/shraddhapai/SNPNotes",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/PMMAraujo/snappy",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KamilSJaron/smudgeplot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Onto-Med/SMOG",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bandyopd/SMARTp",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jwfoley/Smart-3SEQ_paper_scripts",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BGI-Qingdao/SLR-superscaffolder",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rborder/SL_REML",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gangwug/SkinPhaser",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vitnov/SKIMMR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pcahan1/singleCellNet/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/iferres/simurg",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/UdeS-CoBIUS/SimSpliceEvol",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hscsun/SimpleDSFviewer-5.0.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/GATB/simka",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sotmasman/Silicon-microprobes",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mbilab/SigUNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/denoptim-project/DENOPTIM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/frihaka/deltaRpkm",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://www.github.com/cabsel/deltanetsplus",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/oxpig/DeLinker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/meganlsmith/delimitR",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/wangshenguiuc/DeepSyn/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://gitlab.com/lgianca/longitudinal-deepsymnet",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/CSuperlei/DeepSV",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/OnurUner/DeepSide",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/cuihf06/DeepShape",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pcpLiu/DeepSeqPanII",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/1991Troy/DEEPSEN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MedChaabane/deepRAM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jgraving/deepposekit",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/bio-ontology-research-group/deeppheno",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vsegurar/DeepMSPeptide",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/HubertTang/DeepMir",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/minoh0201/DeepMicro",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/paprikachan/DeepMF",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/leylabmpi/DeepMAsED",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gifford-lab/DeepLigand",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CYHSM/DeepInsight",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lanagarmire/DeepImpute",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/CSUBioGroup/DeepEP",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/ACIL-Group/DVFA",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/cran/DDPGPSurv",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gtayana/CVRMS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/carlosborca/CrystaLattE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Kingsford-Group/cfd",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bihealth/SigsPack",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/VCCRI/Sierra",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/snowformatics/siFi21",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jwouters91/shybrid",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/fangzhen-li/ShNeigh",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BackofenLab/ShaKer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/QUST-AIBBDRC/SGL-SVM/",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/seroanalytics/serosolver",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/knightjimr/serocall",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/Rostlab/SeqVec",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/salbrec/seqQscorer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/malewins/SEQing",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/miguelperezenciso/SeqBreed",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/UEA-Cancer-Genetics-Lab/sepath_tool_UEA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ncsa/Sentieon_DNASeq_Benchmarking",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Boyle-Lab/SEM_CPP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ucrbioinfo/Selfish",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/YJulyXing/SECNVs",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/herrsalmi/IntOmics/",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://www.github.com/AntonelliLab/seqcap_processor",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/RongquanWang/SE-DMTG",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bioinfologics/sdg",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Frank-Orwell/scTIM",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/jon-xu/scSplit",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tabdelaal/scRNAseq_Benchmark",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/liuqivandy/scRNABatchQC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jdime/scRNAseq_cell_cluster_labeling",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/YiliangTracyZhang/SCRIBE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/SydneyBioX/scReClassify",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/powellgenomicslab/scPred/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/rongjiewang/DeepDNA",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/godwinwoo/DeepCOP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ba-lab/DEEPCON",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/cossartlab/deepcinac",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/haiping1010/DeepBindRG",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Merck/deepbgc",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jjin49/DeepAttentionPan",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/SharifBioinf/DeePathology",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/puppy101puppy/Deep-Z",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vibudh2209/D2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/holiday01/deconvolution-to-estimate-immune-cell-subsets",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ZhuMSLab/DecoMetDIA",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/OrensteinLab/DeCoDe",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/bigdatagenomics/deca",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/komiveslab/DECA",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/hitbc/deBGA-VARA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/idellyzhang/DDR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gversmee/dbgap2x",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/nstander/DatView",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dnbaker/dashing",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/elixir-luxembourg/daisy",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/chenxofhit/D3GRN",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://www.github.com/saeyslab/CytoNorm",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/hammerlab/cytokit",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bbehsaz/cyclonovo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kodaim1115/CYBERTRACK",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/icthrm/cwSDTWnano",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tjiangHIT/cuteSV",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/klarman-cell-observatory/cumulus",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/liuyu8721/csmd",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/msschwartz21/deltascope",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/liuze-nwafu/csDMA",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/binbinlai2012/scMNase",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KChen-lab/SCMarker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yufengwudcs/ScisTree",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/compbel/SCIFIL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/10XGenomics/scHLAcount",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BMILAB/scHinter",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://www.github.com/amsesk/SCGid",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/theislab/scgen",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jamesjcai/scGEAToolbox",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kostkalab/scds_manuscript",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Vivianstats/scDesign",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/VCCRI/Scavenger",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tanlabcode/scATAC-pro",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/VerenaHeinrich/CRUP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tamarcrum/CRUMBLER",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jsxlei/SCALE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/cvejic-group/scaespy",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/pachterlab/SBP_2019/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://gitlab.com/biomodlih/sbm-for-correlation-based-networks",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/jianlin-cheng/SAXSDom",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/icthrm/CRM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pinellolab/CRISPRitz",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dylanbeeber/crispRdesignR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Christina-hshi/CQF-deNoise",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/maxscheurer/CPPE",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/liguowang/cpgtools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/DataX-JieHao/Cox-PASNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lianneovnat/CoverageTool",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/krits04/cornea",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/sapfo/contaminationX",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/atgenomix/connectedreads",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ScialdoneLab/COMUNET",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/moghbaie/ComplexPlus",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/leonardlab/COMET",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CapPow/collBook",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/fwhelan/coinfinder",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pedronachtigall/CodAn",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bertrand-lab/cobia",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LinjieWu/CNV-BAC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Jilab-biomechanics/CNN-brain-strains",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/WangLabHKUST/CNAPE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/adamwaring/ClusterBurden",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/YaqiangCao/cLoops",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/COL-IU/ClonalTREE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/isoviita/CLOBNET",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Minzhe/Clirc",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NLPIE/clinical-sentences",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/HKU-BAL/Clair",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/azevedolab/sandres",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/YamamotoLabUCSF/SampleSheet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yycunc/SAMEclustering",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ihwang/SAMDUDE",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/machinegun/SALSA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mjc449/SAIMscannerV3.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/netzlab/SACMES.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/anganachakraborty/S-conLSH",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sebkim/RTNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/HorvathLab/RsQTL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MunskyGroup/rSNAPsim.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/mmjulkowska/La_isla_de_tomato",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/FenyoLab/L1EM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yhg926/public_kssd",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/csb.ethz/KirchPy",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/mathesong/kinfitr",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sirimullalab/KinasepKipred",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/huayu1111/KDDANet/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/MeichunCai/Kataegisportal",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/ncbi/JUDI",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/curieshicy/JRgui",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/minds-mines/jmmlrc",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Sage-Bionetworks/JHU-biobank",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/VascoElbrecht/JAMP",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/degiacom/JabberDock",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/wangying0128/IsomiR_Find",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/williamcaicedo/ISeeU",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/DeepRank/iScore",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ngphubinh/iProDNA-CapsNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/francescodc87/IPA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Vitek-Lab/IonSpattern",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CompbioLabUcf/IntMTQ",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/jlevy44/InteractionTransformer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://www.github.com/aditya-88/intelli-ngs",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/koszullab/instaGRAAL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/leepei/informer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dkleftogi/cfDNA_AnalysisPipeline",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/martijn-cordes/ImSpectR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Ananya-Bhattacharjee/ImputeDistances",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yl2019lw/ImPloc",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ibivu/PRALINE/",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://github.com/mlr-org/mlrMBO",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/sahatava/MixMPLN",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/dzarmola/knot_pull",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/medvedevgroup/HowDeSBT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GreiffLab/immuneSIM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/grst/immune_deconvolution_benchmark",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/mfumagalli/ImaGene",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/liudan111/ILMF-VH.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://gitlab.com/MegMcC/rr-apet-hrv-analysis-software",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/ccsb-scripps/Illustrate",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/SampleSizeShop/rPowerlib",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/deisejpg/rosids",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ansts/IgMimoPap1",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ahmedaq/RocaSec",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ngphubinh/enhancers",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GuangyeLiGit/iEEGview",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pwollstadt/IDTxl",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gersteinlab/iDASH19bc",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/YellowcardD/RNN-for-membrane-protein-types-prediction",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://www.github.com/HarveyYan/RNATracker",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://www.github.com/nicokist/RNASeq_similarity_matrix",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/gbaquer/rMSIcleanup",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/carinelegrand/RiboVIEW",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mwsill/RFpurify",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/admelloGithub/ReVac-package",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sandialabs/RetSynth",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BaiLab/MWMM",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/GrossTor/response-logic",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/takfung/ResDisMapper",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/HorvathLab/ReQTL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/utrillalab/repromin",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/comprna/reorientexpress",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dwinter/rentrez_ms",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/stajichlab/RelocaTE2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Murali-group/RegLinker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/burkhard-morgenstern/Read-SpaM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/whitneywhitford/RBV",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/chl556/Contextual_Regression_for_CircRNA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lichen-lab/circMeta",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/iprada/Circle-Map",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/PSSUN/CircCode",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/RWParsons/circacompare/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/kundajelab/ChromDragoNN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mjsull/chromatiblock/",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://github.com/chrismonit/chroma_clade",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/asearfos/chipper",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rmesse/ChIPdig",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lin-chen-VA/chimeraplugin",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ManuelLamothe/RapidACi",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kepbod/rampage_alu",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mchiapello/Ramf",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/SengerLab/RametrixLITEToolbox",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/missuse/ragp",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/malonge/RaGOO",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pantastheo/RACE-SEQ-lite",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/OSU-BMBL/QUBIC2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cole-group/QuBeKit",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lutteropp/QuartetScores",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rglez/QT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/goknurginer/qtQDA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Tmyiri/QS-Net",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/qusers",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/qiime2/q2-sample-classifier",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/qiime2/q2-feature-classifier",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/schlessingerlab/pyvol/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/csyben/PYRO-NN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vitorpavinato/PypeAmplicon",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KnorrFG/pyparadigm",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AhmedArslan/pyntheon",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/Christensen-Lab-Dartmouth/PyMethylProcess",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/elfi-dev/zoo/tree/master/pylfire",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/DEIB-GECO/PyGMQL",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/deepphong/icu-readmission",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/llanzano/ICCS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sysbio-curie/ICA-in-Cancer-research-review-materials",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/mdedge/IBS_privacy/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/altaybrusan/ibex/tree/FastDev",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://github.com/roohy/IBD",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/zhou256/iATC-NRAKEL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/amcorrigan/ia-lab",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/xikanfeng2/I-Impute",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/biomag-lab/hypocotyl-UNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ivankovlab/HypercubeME.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/montilab/hypeR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mossmatters/HybPiper",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/amcdavid/HurdleNormal",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mailchand/CHaRTr",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BioinfLab/ChaperISM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bchidest/CFNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://www.github.com/cerr/CERR",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/GaoLabXDU/CEPICS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/seryrzu/centroFlye",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AltAnalyze/cellHarmony-Align",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/broadinstitute/CellBender",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/irrationone/cellassign",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/ComputationalEcologyLab/CDMetaPOP/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/jade-nhri/CCBGpipe",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ammvitor/CAT",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://www.github.com/YosefLab/Cassiopeia",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/AlejandroAb/CASCABEL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ctlee/casc",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/raphael-group/scarlet",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/jszlek/CardiacPBPK",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KIT-MBS/pydca",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jessada/pyCancerSig",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/anooplab/pyar",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/Geod-Geom/py2DIC/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/CNaibon/PVCTools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dfguan/purge_dups",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xmengli999/CANet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xqwen/ptwas/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/bm2-lab/pTuneos",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ruffleymr/CAMI",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/veitveit/CrossTalkMapper",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/roads/psiz",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cartoonist/psi",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/afmagee/hsmrfbdp",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/riken-aip/pyHSICLasso",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cansyl/HPO2GO",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/proteincraft/HPer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cepid-cces/hpccs",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/adussaq/jsHPAanalyze",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/danioxoli/HotSpotAnalysis_Plugin",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rondolab/HOPS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MSBradshaw/Holden",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/DessimozLab/HogProf",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/liuze-nwafu/HLMethy",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/ExpressionAnalysis/HLAProfiler",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/DenuLab/HistoneAnalysisWorkflow",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/priyojitDas/HIRAC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sahandk/HINTRA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AISKhalil/HiCNAtra",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kimmo1019/hicGAN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lucidif/HiCeekR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cga-harvard/HHypermap",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/seldas/HetEnc_Code",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/RanSuLab/Hepatotoxicity",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jiazhao97/BWMR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/klkeys/proxdist",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/8medom/ProtRank",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/HeldLab/ProteoClade",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/rderelle/Broccoli",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kbvstmd/ProGeo-neo",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/MICA-MNI/BrainSpace",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/thakar-lab/BONITA",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/KhiabanianLab/All-FIT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BioinformaticsCSU/BNNR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/JingXieMIZZOU/BLMRM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yiucla/BJASS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/screamer/BiwalkLDA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/edensunyidan/BiTSC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/aehrc/BitEpi",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bionitio-team/bionitio",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/JogleLew/bioner-cross-sharing",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yanshanwang/biocaddie2016mayodata",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GrosseLab/BGSC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/QUST-AIBBDRC/GA-Bagging-SVM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/IMB-Computational-Genomics-Lab/ascend",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/byin-cwi/ALS-Deeplearning",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/heltilda/align3d",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wangyc82/ALACD-v1",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tudelft3d/adtree",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NeuroAI-HD",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/dodomorandi/hatspil",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jwist/hastaLaVista",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/IHSMFruitCrops/Hass-genotyping",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/davideyre/hash-cgmlst",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/immunogenomics/harmony",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/samuelstjean/harmonization",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/petrov-lab/HAFpipe-line",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/neuroanatomy/GWPC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Joyvalley/GWAS_Flow",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vlasmirnov/GTM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/caiorns/GTACG-backend",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ecg-lab/GTA-Hunter-v1",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yuumio/GsVec",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Superraptor/GSSO",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/RungruangsakTorrissenManoonpong/GrowthEstimate",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/2010511951/GripDL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/greatspn",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/lbcb-sci/graphmap2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/PromoterPredict",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/genesofeve/projectR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dohlee/prism",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/WarrenDavidAnderson/genomicsRpackage/tree/master/primaryTranscriptAnnotation",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/Snitkin-Lab-Umich/prewas_manuscript_analysis",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mjoppich/bioGUI",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/bio-phys/BioEn",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/NKI-CCB/PRECISE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ouyang-lab/PRAS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://www.github.com/tamerh/biobtree",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/hayleybounds/PrAnCER",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/naver/biobert-pretrained",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/venyao/binQTL",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/ptrcksn/BINDER",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/abelavit/Bigram-PGK",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lasigeBioTM/PPRSSM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/txWang/BERMUDA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/JesseKerkvliet/Bellerophon",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MicronOxford/BeamDelta",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/raghvendra5688/BCrystal",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/Malfoy/BCOOL",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/SexChrLab/PopInf",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/JuliaPalacios/phylodyn",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/telatin/qax",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/chentianlu/GRaMM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gersteinlab/GRAM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/grailbio/bio/tree/master/fusion",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/magStra/GPseudoClust",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/qm2/gpress",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AlgoLab/gppf",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tanhevg/GpABC.jl",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xszhong/GO2Vec",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BrandinGrindstaff/GMpi",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bioinfomaticsCSU/GMCLDA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tlemmin/glycosylator",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CCGMS/Glyco-DIA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/neuropoly/atlas-rat",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kundajelab/gkmexplain",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yhadevol/Assexon",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ceegeeCode/GISA",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/dsarov/ARDaP",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/dedonlab/aqrnaseq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rdong08/GiniClust3",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MortySn/ANMF",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/edawson/gfakluge",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/PlantGenomicsLab/gFACs",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AshTai/BayICE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dungtsa/BayesianPredictiveFutility",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/markusheinonen/bamfa",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/liucaomics/genuMet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hanlab-SNU/GenomicGPS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tbenavi1/genomescope2.0",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/will-rowe/genome-sketching",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/0232/Genome_topology_network",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jambler24/GenGraph",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mshabbirhasan/Genesis-indel",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BenoitMorel/GeneRax",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/bmannakee/batcaver",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/theislab/bartSeq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/OpenGene/gencore",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xqwen/bagse/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/irilenia/baerhunter",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jeanollion/bacmman",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/baoxingsong/GEAN",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/jltsiren/gcsa2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xiaoyeye/GCNG",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xyzx2019/GCMDR",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/malemay/delgbs",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://github.com/anuradhakar49/GazeVisual-Lib",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/nahmedraja/GASAL2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/YttriLab/B-SOiD",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/Caleb-Huo/AWFisher",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/weng-lab/zing",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/LeenaSalmela/Elmeri",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/thackmann/Distanced",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/neurorestore/Augur",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jdidion/atropos",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://www.github.com/jlohmeier/atlasBREX",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/ningshi/ATEN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dqwei-lab/ATC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/clara-genomics/AtacWorks",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dspeth/ASM_clust",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/HuangLab-Fudan/ASJA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rwbarrette/ASFV_MinION_RapidAssembler",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pcdslab/ASD-DiagNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/TRON-Bioinformatics/ArtiFusion",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gaarangoa/ExtrARG",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/animgoeth/ARA-CNN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/maiziex/Aquila_stLFR",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/balabanmetin/apples",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/ElkonLab/scAPA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zhanglabNKU/APIN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hobae/AnomiGAN/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://gitlab.com/biotransistor/annot",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/d3b-center/annoFuse",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/SchulzLab/TFAnalysis",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dkleftogi/AmpliSolve",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lozuponelab/AMON",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cortex-lab/alyx",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bioinfo-ut/AluMine",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pymodproject/altmod",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/keoughkath/AlleleAnalyzer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AliTVTeam/AliTV",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Vivianstats/AIDE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pereiramemo/AGS-and-ACN-tools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GeniusTang/Afann",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/prdm0/AdequacyModel",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LeileiCui/ADDO",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mccabes292/actor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mafeiyang/ACTINN",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/ctlee/gamer",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/dmnfarrell/snpgenie",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/cbg-ethz/PredictHaplo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/compomics/ThermoRawFileParser",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/aCLImatise/CliHelpParser",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/marieBvr/virAnnot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Bierinformatik/MIRfix",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KarrLab/de-sim",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/herrsalmi/FConverter",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wdecoster/nanopack",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/compomics/COSS",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/aertslab/cistopic",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/arzwa/wgd",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/xavierdidelot/ClonalFrameML",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tetramerFreqs/Binning",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/edgraham/BinSanity",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/soedinglab/hh-suite",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/saeyslab/Computational_Pipeline_CVID",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Helena-todd/TinGa",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/compomics/MAPPI-DAT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/compomics/xilmass",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/monarch-initiative/loinc2hpo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/WGLab/InterVar",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BartBroeckx/Mendelian",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/compomics/moFF",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/compomics/cellmissy",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/broadinstitute/picard",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/compomics/pladipus",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/big-data-lab-team/spot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ShixiangWang/sigminer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ropensci/UCSCXenaTools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tobiasrausch/alfred",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dellytools/delly",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/guigolab/grape-nf",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NIB-SI/DiNAR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vtoure/causal-extractor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cbrueffer/tophat-recondition",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/UniBioDicts",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/kendomaniac/rCASC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/brsaran/LBEEP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Brazelton-Lab/seq-annot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/FAIRDataTeam/FAIRDataPoint",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/slimsuite/pafscaff/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/BackofenLab/CRISPRcasIdentifier",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/urmi-21/PLncPRO",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/brsynth/RetroPathRL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BioData-PT/D-cellerate",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/hms-dbmi/EHRtemporalVariability",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/biofuture/aqmm",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NBISweden/contigtax",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NBISweden/nbis-meta",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wheaton5/souporcell",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Benjamin-Vincent-Lab/stig",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/oschwengers/asap",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MetaSys-LISBP/IsoCor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/seliv55/ramidcor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/seliv55/ramidcor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/seliv55/ramidcor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/seliv55/isodyn",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/labgem/PlaScope",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/WangHYLab/fcirc",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/aaiitggrp/SpliceVec-g",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Dowell-Lab/DAStk",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dblhlx/PyBSASeq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/OpenMS/pyopenms-extra/blob/master/docs/source/index.rst",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/schallerdavid/pyrod",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/fboehm/qtl2pleio",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/guilherme-pereira/qtlpoly",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/owatson/QuantileBootstrap",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ratcave/ratcave",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/genostats/Ravages",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Abyss-bai/reference-panel-reconstruction",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/dmis-lab/ReSimNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/Philbrick/rilcontour",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/mjenior/riptide",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bgruening/galaxy-rna-workbench",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ShiangHu/Unified-EEG-reference-rREST",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rdemolgen/SavvySuite",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Adrienrougny/sbgntikz/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/MeiyueComputBio/sbl/tree/master/R%20packge",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/TalShor/SciLMM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BMILAB/scNPF",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/XQBai/SCTree-test",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rowaniskandar/SDE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bazykinlab/SELVa",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AlexandrovLab/SigProfilerMatrixGenerator",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yjx1217/simuG",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/scwest/SINBAD",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/SajadMo/SleepEEGNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dewancse/SMT-Genetic",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/maxplanck-ie/snakepipes",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/SolangeD/R.SamBada",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/AllenInstitute/sonata",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/RachelQueen1/Spaniel",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/romaingroux/SPar-K",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/flemingtonlab/SpliceV",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/weiba/Subdyquency",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/susanhleung/SuCOS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bzhanglab/sumer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/puko818/SureTypeSC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sverger/SurfCut",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hammerlab/t-cell-relation-extraction",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wzhangwhu/TEGS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ThermoLabAnimal/ThermoLabAnimal_FreeVersion",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hr1912/TreeExp",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hansaimlim/REMAP/tree/master/TriFacREMAP",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/bplese/Trimitomics",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gymreklab/Tulip",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/yongzhuang/TumorCNV",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/TravisWheelerLab/ULTRA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/VandinLab/UNCOVER",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vanya-antonov/universal_tts",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Meiyan88/SASM-VGWAS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ShengquanChen/VPAC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lyotvincent/X2H",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bhklab/Xeva",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BioSystemsUM/cobamp",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/egeulgen/pathfindR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/nickp60/riboSeed/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/BarnettLab/MyelinJ",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/grizant/n1pas/tree/master",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/genomicsITER/NanoDJ",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/IARCbioinfo/needlestack",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ANGSD/ngsRelate",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/arttumiettinen/pi2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bcgsc/ntedit",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/nufeb/NUFEB",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/umangv/picturedrocks",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/meringlab/og_consistency_pipeline",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/limnolab/Optimos-Prime",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vivekmathema/OSTRFPD",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Illumina/paragraph",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sedab/PathCNN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/fabotao/PATHcrosstalk",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/lvasquezcr/pathways-analyzer/",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://github.com/systemsmedicine/PDE_params",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/deWitLab/peakC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bozdaglab/PhenoGeneRanker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/prubbens/PhenoGMM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Katzlab/PhyloTOL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/labstructbioinf/PiPred",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wvictor14/planet",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/huangkang1987/ploidyinfer",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/chenkenbio/PredPSI-SVR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zhengchangsulab/prosampler",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/xiaomizhou616/protein_solubility",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wososa/PSI-Sigma",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/radamsRHA/pSTDistanceR/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/DMU-lilab/pTrimmer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/comoto-pasteur-fr",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/DMnBI/iMGEins",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/langmead-lab/FORGe/tree/v1.1",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/molgenis/NIPTeR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/DataX-JieHao/PASNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/SpiNNakerManchester/sPyNNaker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/veg/flea-pipeline",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jschellh/ProtSpaM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/aspuru-guzik-group/qtorch",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vsoftco/qpp",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/michaelmell/hipfsta",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/bhi-kimlab/BiSpark/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/HaydenTronnolone/TAMMiCol",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/alanderos91/BioSimulator.jl",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/friedlanderlab/mirtrace",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wangc29/MSIpred",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jespermaag/gganatogram",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://pymzml.github.com",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/galaxyproject/tools-iuc/tree/master/tools/scater",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/pyQms/pyqms",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/beatrizgj/MDPbiome",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Julia-F-S/a-o-tool",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/githubcode007/ABMDA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/psc_santos/ACACIA",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/TopGene/AIvar",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AlexShein/transposons/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/xyz5074/AMDA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yijingru/ANCIS-Pytorch",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/DSIMB/ANN-Glycolysis-Flux-Prediction",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bittremieux/ANN-SoLo",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/QuKunLab/APEC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sambitmishra0628/AR-PRED_source",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/csoneson/ARMOR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/IEkAdN/BactSNP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/RebeccaFine/benchmarker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/s-will/BiAlign",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bio2bel",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/guleom/BioCell2XML",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lkorshoj/Block-Optical-Content-Scoring",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ridgelab/cam",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/YasharVahedein/CardioFAN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CoAxLab/CBGT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/morris-lab/CellTag-Classifier",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/romanhaa/Cerebro",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cimm-kzn/CGRtools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GuoliangLi-HZAU/ChIA-PET_Tool_V3/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/liaoscience/circRNAwrap",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ugobas/Molecular_clock",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mschubert/clustermq",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AISKhalil/CNAtra",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bsml320/CNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ridgelab/codon_congruence",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://www.github.com/ngiangre/cohorts",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/wonjininfo/CollaboNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gordonliu810822/CoMM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ChristopherAMyers/CoSIMS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://www.github.com/rsh249/cRacle",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/GMOD/cram-js",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/fortunatobianconi/CRC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KChen-lab/cyclum",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/dib-lab/dammit/",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://github.com/ropenscilabs/datastorr",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/BioDataLearning/DeepCirCode",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ChengF-Lab/deepDR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/arefeen/DeepPASTA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cansyl/DEEPred",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hitbc/deGSM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/B-UMMI/DEN-IM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/W-L/deviaTE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bihealth/digestiflow-server",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/multicom-toolbox/DNSS2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kulikovv/dognet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/millanek/Dsuite",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Zhangxf-ccnu/EnImpute",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Cobanoglu-Lab/EPEE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zzz3639/EpiAlign",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zfyuan/EpiProfileLite",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/colomemaria/epiScanpy",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/exautomate/Exautomate-Core",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cosanlab/facesync",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/YuningHao/FARDEEP.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/gtonkinhill/fastbaps",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cwroy/Fetal-XCMR/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/tkchafin/FGTpartitioner",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Manibarathi/FluoroCellTrack",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ViennaRNA/forgi",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tsnorri/founder-sequences",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/edevost/foxmask",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wsjeon92/FP2VEC",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/lczech/gappa",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/jensenlab/gapsplit",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/sahildshah1/gene-surrounder",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/V-Bernal/GGM-Shrinkage",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/chaoning/GMA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gpuam/binaries.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/DecodeGenetics/graphtyper",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hernanchavezthielemann/GRO2LAM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/unistbig/GScluster",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kdri-genomics/Hayai-Annotation-Plants",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ListerLab/HOME",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BIMSBbioinfo/HOT-or-not-examining-the-basis-of-high-occupancy-target-regions",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yunchuankong/HypergraphDynamicCorrelation",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/biomag-lab/hypocotyl-UNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/vtphan/HeteroplasmyWorkflow",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/shengli0201/Datasets",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KlinkeLab/ImmClass2019",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Kingsford-Group/scallop",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com//statgenlmu//IWEPoissonPaper",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/mlpaull/KTOPE",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/lzhLab/kmcEx",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/mathieubray/KPDGUI",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/suecharo/KPHMMER",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://github.com/tsteelejohnson91/LAmbDA",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/uwrit/leaf",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cdmuir/leafoptimizer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/guofei-tju/LightCpG",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/michaelorella/lignin-kmc",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/thh32/Lipase_reclassification",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://gitlab.com/Gustafsson-lab/liplike",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/kwanjeeraw/lmm2met",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/jbkinney/logomaker",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/choderalab/pymbar",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/OSU-BMBL/metaqubic",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lb664/MethylCal",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/liupeng2117/MethylSeqDesign",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jjs3098/CNU-Bioinformatics-Lab",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/andrewgull/MGERT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/huangkang1987/mhc-typer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mirTime/mirtime",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kerepesi/mistimm",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/sjfandrews/MitoImpute",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/hawkjo/mixr",
+            "in_swh": false
+        },
+        {
+            "github_link": "http://www.github.com/stamakro/MLC",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/BergmannLab/MONET.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/cavei/MOSClip",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KamelaNg/MTBGT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/carolzhou/multiPhATE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Christopher-Amos-Lab/seXY",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/TF-Chan-Lab/OMBlast",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/qiukunlong/seeksv",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cbrackley/capC-MAP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/4dn-dcic/tibanna",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/andymlau/Deuteros",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/EpistasisLab/ebic",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/crisflash/crisflash",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pogudingleb/SIAN",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kehrlab/PopDel",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ibivu/PRALINE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jchiquet/multivarNetwork",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/paoloinglese/SPUTNIK",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tdepke/CluMSID/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/jbellamycarter/pepfoot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NCIP/cgr-bambino",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/johnlees/PopPUNK",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Teichlab/bbknn",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bxlab/bx-python",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/fredericlemoine/goalign",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/spond/gb_taxonomy_tools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/galaxyproject/galaxy/tree/dev/tools",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/AlistairNWard/vcfPytools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pyrevo/ClusterScan",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LucaAmbrosino/Transcriptologs.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/robinparky/prolucidComPIL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/chhh/deltamass",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cssblab/EBprot",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mfitzp/padua",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Shawn-Xu/PPIP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yeastrc/proxl-web-app",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/PNNL-Comp-Mass-Spec/Q4SRM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kevinkovalchik/RawTools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CMRose3355/TomahaqCompanionProgram",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/suhrig/arriba/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/csclab/RMut",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/omicsCore/SEQprocess",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CAMI-challenge/OPAL",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Sunmile/DeepUbi",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Greco-Lab/FunMappOne",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/SCUT-CCNL/ADS-HCSpark.git",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/CAMI-challenge/CAMISIM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/snr-vis/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/BMILAB/PASCCA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hakyimlab/MetaXcan",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/EdwardsLabNeuroSci/NeuroMeasure",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LobanovaEG-LobanovSV/Q-HIU",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/calquezar/OpenCASA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/precisionomics/OCMA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/shaoli86/DiscoverSL/releases/tag/V1.0",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/MigleSur/GenAPI",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/perishky/meffil",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/hyounesy/ChAsE/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/hyounesy/ALEA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/spiwokv/anncolvar",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NetherlandsMetabolomicsCentre/mzextract-website",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/koelling/amplimap",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/TulsaBioinformaticsToolsmith/Look4TRs",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/CCQC/janus",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ropensci/colocr",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/chjiao/TAR-VIR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ybq1204/DisV-HPV16",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MijinKwon/CODA-ML",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cmbcu/MHCSeqNet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yousra291987/ChiCMaxima",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MathOnco/NeoPredPipe",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ODAE-ontology/ODAE",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ssadedin/bazam",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/RuleWorld/RuleBuilder",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ramiromagno/gwasrapidd",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dieterich-lab/circtools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ncbi/TPMCalculator",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/metaOmics/metaOmics",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zhaoxiaofei/BinDash",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/xwBio/RRBSsim",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/PNNL-Comp-Mass-Spec/LIQUID",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/valflanza/accnet",
+            "in_swh": true
+        },
+        {
+            "github_link": "http://github.com/evolbioinf/hotspot/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/ahstram/al3c",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/waynebhayes/BLANT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ewyang089/SDEAP/wiki",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/huiliucode/cafe_plugin",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/VCCRI/Spliceogen",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/abadona/qsimscan",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/rjdkmr/do_x3dna",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/oscarlr/MsPAC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bioinfomaticsCSU/MultiGuideScan",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/nickytong/drexplorer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/bougui505/SOM",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/LlucSF/rMSIKeyIon",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Megagenomics/FastProNGS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sellerslab/gemini",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cozygene/CONFINED",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ElisaYork/3DMorph",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gauravsk/ranacapa",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zhangyimc/DeepSplice",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/WGLab/iMEGES",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sbhoyar1/ColonySizeDistributions",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GrabherrGroup/ACES",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ZKSI/QuantumInformation.jl",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/cgplab/ddSeeker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wushyer/RGAAT_v2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/zstephens/CORGi",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/biocaddie/Foundry-ES",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/babelomics/bierapp/wiki",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/Biobix/proteoformer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/PRIDE-Utilities/ms-data-core-api",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/PRIDE-Toolsuite/PGConverter",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Jhsmit/ColiCoords",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jmwozniak/PTMphinder",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/nclark-lab/RERconverge",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/wzhy2000/Funmap2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jengelmann/FastqPuri",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/KHP-Informatics/DNAscan",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lmse/impact",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/ijuric/MAPS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lichen-lab/BAMMSC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/conbase/conbase",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Bibliome/alvisir",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/amitfrish/scBio/blob/master/README.md",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/AltschulerWu-Lab/scScope",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/will-rowe/hulk",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Pengeace/RPITER",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BIMIB-DISCo/scFBA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/gimelbrantlab/magic",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/FlorianThibord/OptimiR",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/fmansoori/FoPA",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/qiao-xin/DupGen_finder",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ChengF-Lab/COAC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/dolevrahat/CladePP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/felicityallen/JACKS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GuoliangLi-HZAU/BatMeth2",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BIONF/protTrace",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/TheJacksonLaboratory/Gopher",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/cclab-brca/NGTAS_pipeline",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lauzingaretti/pSBVB",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/GuanLab/Anchor",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/andrecamara/kronrlsmkl",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jaumebonet/RosettaSilentToolbox",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/UoS-HGIG/GenePy",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/simon-anders/distnet",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/anders-biostat/focusedMDS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/yannponty/RNARedPrint",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/sblanck/smagexp",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/MUSC-CGM/PIMENTo/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/heinc1010/BAMixChecker",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/nygenome/SCANVIS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Illumina/ExpansionHunter/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/cchauve/HyAsP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NuriddinovMA/C-InterSecture",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/NeilPearson-Lilly/TractaViewer",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/forrest-lab/scMatch",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/osenan/cliqueMS",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/lsncibb/SummaryAUC",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/mrzResearchArena/PyFeat/",
+            "in_swh": false
+        },
+        {
+            "github_link": "https://github.com/XiaoleiLiuBio/G2P",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/Logic09/SW-Tandem",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/glycoinfo/GlycanFormatConverter",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/FadyMohareb/mapoptics",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/chgibb/PHAT",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/AG-Roemer/GUV-AP",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jyyulab/SJARACNe",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BGI-shenzhen/PopLDdecay",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/BenoitMorel/ParGenes",
+            "in_swh": true
+        }
+    ],
+    "summary": {
+        "count_in_swh": 999,
+        "count_not_in_swh": 201
+    },
+    "links_swh": {
+        "count": 0,
+        "files": []
+    }
+}

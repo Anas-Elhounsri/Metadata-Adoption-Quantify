@@ -1,0 +1,38 @@
+{
+    "citation.cff": {
+        "count": 35
+    },
+    "readme_url": {
+        "count": 633
+    },
+    "contributors": {
+        "count": 14
+    },
+    "license": {
+        "count": 523
+    },
+    "identifier_extract": {
+        "count": 16,
+        "extracted_values": [
+            "10.5281/zenodo.7271098",
+            "10.5281/zenodo.7868226",
+            "10.1093/nargab/lqad056",
+            "10.5281/zenodo.7373424",
+            "10.1093/bioinformatics/btad657",
+            "10.5281/zenodo.10034236",
+            "10.1016/j.jbiotec.2017.07.019",
+            "10.1093/bioinformatics/btae200",
+            "10.5281/zenodo.13870060",
+            "10.5281/zenodo.4247252",
+            "10.1016/j.patter.2023.100915",
+            "10.5281/zenodo.7890716",
+            "10.1021/jasms.3c00003",
+            "10.5281/zenodo.7940046",
+            "10.5281/zenodo.7410180",
+            "10.1093/bioinformatics/btac311"
+        ]
+    },
+    "None": {
+        "count": 7
+    }
+}

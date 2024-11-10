@@ -3,6 +3,9 @@
         "count_short": 16,
         "count_long": 13
     },
+    "no_description": {
+        "count": 0
+    },
     "license": {
         "spdx": {
             "count": 16,
@@ -99,8 +102,11 @@
             ]
         }
     },
+    "no_license": {
+        "count": 0
+    },
     "installation": {
-        "count": 16
+        "count": 11
     },
     "requirements": {
         "count": 6
@@ -113,6 +119,7 @@
     },
     "authors_id": {
         "count": 0,
-        "files": []
+        "files": [],
+        "ORCID_count": 0
     }
 }

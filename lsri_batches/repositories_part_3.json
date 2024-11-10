@@ -1,0 +1,4802 @@
+[
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HuanLab/JPA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/trinityrnaseq/trinityrnaseq/wiki"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tushiqi/MAnorm2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OluwadareLab/HiCARN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PGTSING/HGETGI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lkalmar/HAM-ART"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/slzhao/GTQC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shuai-zhou/GPS2space"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sbcblab/geva"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AldisiRana/GenRisk"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hakangunturkun/GeneCup"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hjraad/FLT/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jeppehave/FishSizer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SJLeo/FFSD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nikhilroxtomar/FANet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LeandroOrdonez/explora-vr-cache"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/frarei312/ExceS-A-An-Exon-Centric-Split-Aligner"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dingyaozhang/Evitar"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NeamulKabir/EnsembleFam"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RongquanWang/ELF-DPC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/huynguyen250896/DrGA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SohamChattopadhyayEE/DRDA-Net"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sculyi/MedicalImages/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GIST-CSBL/DeSIDE-DDI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/XieResearchGroup/DeepREAL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kimmo1019/DeepCAGE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xindd/DCNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ikwak2/DCLEAR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wanxiaozhe/CPI-IGAE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/caravagnalab/congas"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/refresh-bio/colord"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wkusmirek/CNVind"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lmbxmu/CLR-RNF"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NoamAndRoy/Cliquely"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/andreasmang/claire"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wJDKnight/CITL-Rpackage"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Transipedia/kmerator"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BiodataAnalysisGroup/align-paths"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/davebx/kc-align"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/InfOmics/stardust"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mandelbrot-project/memo"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/martalovino/ChimerDriver"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Janga-Lab/CASowary"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cyllab/CalcUS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lizamathews/CAISC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/mqzhanglab/BSDE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SenseTime-Knowledge-Mining/BridgeDPI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TheMillerLab/BodyMapR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AllenInstitute/BarWare-pipeline"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/smirarab/ASTRAL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BIMCV-CSUSP/DiSMed"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Rohit-Kundu/AltWOA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/arontier/A_Prot_Paper"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/roblogan6/3GOLD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/qichao1984/MCycDB"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/canceromics/MeRIPseqPipe"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hitaandrea/MGcount"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shimingwang1994/M2PP.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tare/LuxGLM/tree/master/LuxRep"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wang-124/LRWRHLDA.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JulieTremblay3/LIONirs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/songjiajia2018/LINEAGE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/UAMCAntwerpen/LEADD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/seqan/lara"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TheJacksonLaboratory/JAX-CNV"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wuqian77/SpaceLog"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/smetam/pylae"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Bovbene/iPro-GAN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/martaint/InterCellar"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/meihonggao/ImReLnc"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RongquanWang/IMA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nxiao6gt/iDIRECT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Sun-lab/ideas"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/niaid/sitk-ibex"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/FilAlves/micro-primers"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Coffey-Lab/MIRIAM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/3150129019/mitoDataclean"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jsilburt/Morphious"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DICP-1809/MS-Decipher"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MarcIsak/MSLibrarian"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/SteenOmicsLab/multiflex-lf"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/vpKumaravel/NEAR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/neuromat/nes"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/igbb-popescu-lab/NetSeekR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shuangsong0110/NeuPred"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/geezacoleman/OpenWeedLocator"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cpouchon/ORTHOSKIM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xthuang226/HuGFAN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/samtools/htscodecs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sarvanichinthapalli/HRel"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/betsig/how_are_we_stranded_here"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QiJiang-QJ/GraphFP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hsu-binfo/GRAde"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LiWangG/gGATLDA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/schneebergerlab/plotsr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/backseason/PoolNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nathan-gill/pps"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Benjamin-Crysup/prosynar"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BTheDragonMaster/pikachu"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zbirenbaum/SealFaceRecognition"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SONGDONGYUAN1994/scsampler"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YanWang-jn/FSCAM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/FiMDP/FiMDP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/VIEKASH2001/FAZSeg"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fpthink/EPC-Net"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AE-Mitchell/EndoTime"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BacterialCellBiologyLab/eHooke"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/evidenceontology/evidenceontology"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xielab2017/EasyMicroPlot"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xxy45/DSGAT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DomArchive/DomArchive"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/grisslab/scAnnotatR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/msisakht/pyprotmodel.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bengeof/Compound2DeNovoDrugPropMax"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LQCT/RCDPeaks.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yjx1217/RecombineX"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dongxuemin666/RNA-combine"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bionetslab/robust-eval"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/weir12/DENA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tulikakakati/DEGnext"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dd1github/DeepSMOTE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhangpl109/DeepMGT-DTI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ncbi/deeplensnet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tomasvicar/DeepFoci"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Mikkey-the-turtle/DARTS_v0.1"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RamanLab/cTaG"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/vivekmathema/GCxGC-CRISP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nmt315320/CRBPDL.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ychang74/CovNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/mahnewton/sap4ss"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CBIIT-CGBB/scCorr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JiekaiLab/scDIOR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GanjinZero/CODER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kitneylab/cmatch"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mandymejia/ciftiTools/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Yin-Shen/CharID"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/amkozlov/cellphy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/uta-smile/CD-MVGNN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TianLab-Bioinfo/scMAGIC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/aster-ww/scNAME"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/mahnewton/sdp"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cfcrane/SLAG"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/smin95/smplot"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/clarkevansteenderen/spede_sampler_R"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/sor8sh/SPEQ"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GuttmanLab/sprite-pipeline.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LanLab/STECFinder"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HaploKit/Strainline"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dgittins/CANT-HYD-HydrocarbonBiodegradation"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/GebhardtLab/CaiNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/karltayeb/cafeh"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HongLabTHU/Brainquake"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/computational-biology/bpnet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/diogonarciso/BISCAP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lldelisle/baredSC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CSUBioGroup/BACPI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/soleilssss/AWSnet/tree/master"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zjujdj/SuperAtomicCharge"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/zstephens/telogator"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/XC-NCTR/Tox-GAN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/WDee/Treesist-TB"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/uym2/tripVote"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ianlmorgan/tweezepy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Chenlab-UMN/Ub-E3-ligase-Activity-Profiling-Analysis"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gordon-chenmo/UTRAD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NUIST-Videocoding/VCRNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Andrew-Qibin/VisionPermutator"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/YangLabHKUST/XPXP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhxiaokang/RASflow"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/vtilloy/aspicov"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MehrdadMansouri/Aristotle"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bcgsc/AMPlify"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kzb193/AMAT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AhmedAlbishri/AM-UNET"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YuAirLab/Alpha-Tri"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tianwei-yu/AIME"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/VishnuRaghuram94/AgrVATE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AntonotnaWang/3DCellSeg"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nch-igm/EnFusion"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AluruLab/EnGRaiN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bioinfoMMS/EvalDNA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Minhyeok01/FCLQC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/qingyunpkdd/single_cell_fem"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fadilla-wahyudi/finemav"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cdsanchez18/EcoPLOT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pyhernvann/EcoDiet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/skinnerlab/DL-ML-Hybrid"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nirx/devfOLD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bm2-lab/DeepReac"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wenzelee/DeepNCI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/guoyangzou/DeepKme"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ankitgupta83/DeepCME"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TingLi2016/DeepCarc"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Jhabindra-bioinfo/DeepCap-Kcr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/akiyamalab/cycpeptppb"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/syp2ysy/CTNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/UcarLab/CoRE-ATAC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wonderful1/CNV-P"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cnapy-org/CNApy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/KejiZhaoLab/cLoops2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/danjlawson/CLARITY"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhiyhu/CIDER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Rajesh-Detroja/ChiTaH"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rudeboybert/forestecology"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wangsiwei2010/FPMVS-CAG"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TingMAC/FrMLNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/icredd-cheminfo/CGRdb2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LiuJJ0327/CCPE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RudolfCardinal/camcops"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CSB5/CaDRReS-Sc"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mknoll/cmoRe"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/arq5x/bedtools3"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pyBRAvo/pyBRAvo"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/iquasere/UPIMAPI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/iquasere/reCOGnizer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/iquasere/KEGGCharter"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jodyphelan/TBProfiler"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xiaotiand/FunFor"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pixixiaonaogou/MLSDR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CBIIT-CGBB/gcMECM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/davidechicco/geneExpressionFromGEO"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/EbmeyerSt/GEnView"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AbbasAlameer/geoCancerPrognosticDatasetsRetriever"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/paulmorio/gincco"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/myungjinlee/GLYCO).<h4"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Lav-i/GNNImpute"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/moen-hyb/Graph2MDA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sedaboni/DeepCEL0"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hsinyenwu/RiboPlotR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhanglabNKU/HDMC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HEGANLDA/HEGANLDA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gabaldonlab/haplotypo"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://www.github.com/mhayes20/HolistIC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PhilippJunk/homelette"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tgaochn/HyperSeed"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bansallab/INoDS-model"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sachit27/VAYU"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kcoss-2021/KCOSS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Rolston-Lab/LeGUI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/npm27/lrd"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/serhan-yilmaz/macarons"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YanCCscu/meangs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MedTAG/medtag-core"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sekijima-lab/mermaid"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TearsWaiting/MIMML"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Glogobyte/miRGalaxy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QUST-AIBBDRC/ML-locMLFE/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yuhuan-wu/mobilesal"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/VoiceBeer/MS-MDA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pnnl/MSAC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PhilippKaulich/MSTopDiff"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wanglf19/MultiCapsNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/Teichlab/MultiMAP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/louadi/NEASE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sshaghayeghs/NMF-DR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Lcornet/ORPER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TCB-yehong/PhosPiR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dfguan/pin_hic"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mpierrejean/pintmf"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chaozhi/PolyOrigin.jl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/popharvest/popharvest"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/luojunwei/BreakNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BrainLabVol/BrainFD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jukran/BIKE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/drmonaco/AVARDA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nliulab/AutoScore-Survival"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Marie0909/AtrialJSQnet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/qasimyu/amc"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LewisResearchGroup/ms-mint"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/npavlovikj/ProkEvo"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dan111262/PseUdeep"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/kinleyid/pupl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/welch-lab/pyliger"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JerRuy/Pyramid-Net"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jcrozum/pystablemotifs/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Marc-3d/quickPIV"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ChrispinChaguza/RCandy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/microsoft/RespireNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/leoiacca/rPOP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mamisaki/RTPSpy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/WaqarHusain/sAMP-PFPDeep"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/eudoraleer/scasa"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhongjiayuna/scGET_Project"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JGuan-lab/scIAE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fusong-ju/Seq-SetNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AdaptiveComputationLab/simcov"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Oshlack/Slinker"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JamieHeather/stitchr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MartaBofillRoig/SurvBin"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DGRC-PT/SVInterpreter"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TimNicholsonShaw/tailer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SayakaMiura/TopHap"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/uceasy/uceasy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ysw-sunshine/UPFPSR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mqzhanglab/wHC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/VafaeeLab/COVIDSpread"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/anthony-wang/CrabNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Rashedul/CRIS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/KajiMaCN/CRPGCN/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/austenb28/CycFlowDec"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/swanandlab/DBscorer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sysbiolux/DCcov"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jamesgleave/DeepDockingGUI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/saezlab/decoupleR_manuscript"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SunGL001/DeepBhvTracking"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ntou-compbio/DeepFlu"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QiaoyingJi/DeepSE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/iobio-zjut/DeepUMQA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/awslabs/dgl-lifesci"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BioLab-cz/DiagAF"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/derekmerck/diana2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xytmhy/DID-ANet-Defocus-Deblurring"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PPKE-Bioinf/DIPEND"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MolecularAI/DockStream"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xmuyulab/DreamDIA-XMBD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PengyiZhang/DRR4Covid"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/XuhanLiu/DrugEx"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PRIS-CV/DS-UI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LabTranslationalArchitectomics/riboWaltz"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PRBioimages/DULoc"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://www.github.com/move-ucsb/DynamoVis"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yaweiwang1232/EDCNN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ncclabsustech/EEGdenoiseNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Layne-Huang/EGFI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lguillier/AB_SA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/krlucete/FastqCLS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wangguoguoa/FCNGRU"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zabir-nabil/Fibro-CoSANet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SumitTarafder/Figbird"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/haotian-zhuang/findPC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hsigeman/findZX"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/im-ethz/flirt"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/whitews/FlowKit"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nutrimetabolomics/fobitools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lLegon/gcFront"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/omarmaddouri/GCNCC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MNStokholm/GEDI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xpjiang-ccnu/GEEMiHC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/large-scale-gxe-methods/GEM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TheMillerLab/genetex"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yangfangs/GFICLEE1.0"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JLSteenwyk/ggpubfigs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/WeiAkaneDeng/gJLS2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Bao-Lab/GPSmatch"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lab319/gwas_filter"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TU-NHM/sh_matching_pub"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/opencobra/cobrapy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/soli/casq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mpicbg-csbd/napari-kics"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DKMS/hapl-o-Mat"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/andreaminio/haplosync"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rhysf/HaplotypeTools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/FarnazFouladi/HashSeq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BenNordick/HiLoop"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/liulizhi1996/HPODNets"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CityU-AIM-Group/HTD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chrisjackson-pellicle/HybPiper-RBGV"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/alok123t/HyINDEL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sarah-ku/hyperTRIBER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bedapub/besca"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tekpinar/correlationplus"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mmaitenat/ideafix"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/metexplore/miom"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NiRuff/IntelliPy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Karimi-Lab/inucs/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Wu-Lab/IPJGL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mammasmias/IterativeRotationsAssignments"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jiang-junyao/IReNA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/h3abionet/TADA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/saezlab/CARNIVAL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sysbiolux/FALCON"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MathOnco/HAL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RitchieLabIGH/IRFinder"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/sequentiateampublic/isocnv"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/davide92/K2Mem"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kairosight/kairosight-2.0"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jeya-maria-jose/KiU-Net-pytorch"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/deepmind/alphafold"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/paul-hernandez-herrera/LiPlaCeT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/stegmaierj/LiveCellMiner"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/idamoltke/LocalNgsRelate"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TroyePlus/LRGCPND"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rajewsky-lab/spacemake"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/maytesuarezfarinas/cosinoRmixedeffects"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/laurenhsu1/corral"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sqyu/CorDiffViz"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/spcdot/CopyscAT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CMUSchwartzLab/ConTreeDP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ImXman/MACA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rgyoung6/MACER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/krumsieklab/maplet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BDRD-Genomics/MAS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/takosa/MBCdeg-paper"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RangamaniLabUCSD/Mem3DG"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ZachIngram/2021-MENOTR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bcgsc/NanoSim"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ABIF-McGill/MethodsJ2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/marioni-group/MethylPipeR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Labevo/MicNetToolbox"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/AndreassenLab/MicroSalmon/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mcollatz/ConsensusPrime"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/heartsh/consalifold"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lugimzheng/ConGRI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/uio-bmi/compairr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gordonliu810822/CoMM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/cdk/cdk/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bihealth/sodar-server"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tseemann/berokka"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/bu_cnio/trifid"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Bios4Biol/MINTIA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MathOnco/Mistic"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/larryns/MitoScape"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xialab-ahu/MLBP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Transilico/MolData"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JW-Yan/MONET"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bychen9/eQTL_colocalizer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sigven/cpsr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/leandroradusky/pyFoldX"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tseemann/barrnap"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cinemascience/cinema_snap"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/theosanderson/chronumental"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OSS-Lab/ChemChaste"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/statpark/MR-MDR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yuanzhongshang/MRAID"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jime-sg/deleat"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/s.senkin/MSA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/FEI38750/MTD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/weiba/MTGCN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tanghaibao/allhic"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jieluyan/Multi-Branch-CNN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tjustorm/Multi-resBind"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NourMarzouka/multiclassPairs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CaiLiLab/MuRaL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sigven/pcgr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/anitalu724/MutScape"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bpucker/MYB_annotator"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/liudoubletian/MZINBVA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shimlab/NanoSplicer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ldgh/NAToRA_Public"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/eminSerin/NBS-Predict"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BorgwardtLab/networkGWAS.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/icbi-lab/nextNEOpi"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Malfoy/NIQKI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RuneBlaze/FASTRAL-constrained"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NeginBabaiha/NN-RNALoc"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/erichpeterson/npars-analysis"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Angelia0hh/NPI-RGCNAE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pangenome/odgi"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DessimozLab/omamo"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cistib/origami"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sevimcengiz/Oryx-MRSI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dunhamlab/PacRAT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BiocomputeLab/paraSBOLv"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CHRF-Genomics/Paratype"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/christophuv/PeakBot_example"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BackofenLab/Peakhood"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Merck/PepSeA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/barsnes-group/peptide-shaker-online"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/abu-compbio/PersonaDrive"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/expellir-arma/pGlycoQuant"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ucrbioinfo/PGV"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/phasebook/phasebook"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sigven/oncoPharmaDB"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sigven/vcf2tsv"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sigven/cpsr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sigven/pcgr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sigven/oncoEnrichR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/guoxinyunncu/PKSPS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BIMIB-DISCo/PMCE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/EpistasisLab/pmlb"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rrwick/Polypolish"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/REMI-HIRI/POTATO"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yhoogstrate/fastafs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SchmollerLab/Cell_ACDC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GilbertLabUCSF/CanDI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tariqdaouda/CAMAP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TPakar/Profeel"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/begumbektas/prognosit"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BioinformaticsLabAtMUN/PromoTech"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shuyu-wang/ProS-GNN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bwbio/PROSE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/filip-husnik/pseudofinder"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/m-ama/PyDesigner"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/trieschlab/PymoNNto"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sccnlab/PyMVPD.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QianZiTang/pyRSD-CoEv"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pythonLoader/QT-GILD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/grishkam/QuickFigures"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/frankkramer-lab/RCX"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yaozhong/deepIntraSV"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/egonw/bacting"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/genomicsITER/NanoCLUST"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BorgwardtLab/reComBat.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/abhijeetsingh1704/REDigest"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DasLab/RiboDraw"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HectorRDB/Caldera_Recomb"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Klimroth/BOVIDS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sarahet/RLM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/alekseyzimin/masurca"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/elejeune11/Sarc-Graph"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/woosubs/SBMate"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/genomicsITER/NanoRtax"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Snehalikalall/CopulaGCN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/FertigLab/scatterHatch"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/XZouProjects/scCODE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/carmonalab/scGate"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ElvisCuiHan/scGTM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sl-lin/scHiCSRS.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/j-bac/scikit-dimension"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JiaLiVUMC/scMRMA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HiLab-git/SCPM-Net"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Mayrlab/scUTRquant"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ratschlab/secedo"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HCGB-IGTP/XICRA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/bu_cnio/bollito"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ComputBiol-IBB/CNN-PepPred"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kpto/ClusterSheep"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/huangnengCSU/BlockPolish"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zpf0117b/CLMB/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/btmartin721/ClineHelpR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Daniel-Liu-c0deb0t/block-aligner"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/egaffo/CirComPara2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ddb-qiwang/scMRA-torch"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/calliste-fagard-jenkin/rGAI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/FridleyLab/spatialTIME"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/aistairc/BioVAE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/degiacom/biobox"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Wytamma/beastiary"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YanZhu06/Captor/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/EMBiRLab/batch-mask"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/theochem/B3DB"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ParkinsonLab/Architect"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/holyzews/ARBic"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yangli557/AnnoSINE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/abyzovlab/All2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lich0031/AIDE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Shuhua-Group/AdmixSim2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhanglabtools/ADC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/anna-pa-m/adabmDCA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/paulfogel/A2SIGN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Shamir-Lab/3CAC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/eblancoga/seqcode"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://www.github.com/johli/seqprop"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MoreiraLAB/SicknessMiner"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/meiosis97/Sincast"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/arun96/sketching"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zamboni-lab/SLAW"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Young-gonKim/SnackNTM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HillLab/SomaticSiMu"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jianhuupenn/SpaGCN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhwm/SparsePro"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PMBio/SpatialDE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BU-ISCIII/plasmidID"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BU-ISCIII/iSkyLIMS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BU-ISCIII/taranis"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cobilab/jarvis"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/smirarab/sepp"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/marsicoLab/TriPepSVM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NBISweden/ProtExcluder"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/galaxy001/pirs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chadlaing/Panseq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/babelomics/TFTEA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bcthomas/pullseq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lbcb-sci/ra"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TBLabFJD/PriorR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TBLabFJD/VariantCallingFJD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TBLabFJD/Mini-IsoQLR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wwood/OrfM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TravisWheelerLab/NINJA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nylander/MrModeltest2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lh3/miniasm"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ctSkennerton/minced"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wwood/mfqe"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PhKoch/RepARK"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/benedictpaten/marginPhase"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/benedictpaten/marginAlign"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/arq5x/lumpy-sv"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CAFS-bioinformatics/LR_Gapcloser"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pjedge/longshot"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gkudla/hyb"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hallamlab/fastLSA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/haghshenas/fastutils"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/soedinglab/hh-suite"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hillerlab/GenomeAlignmentTools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yuwwu/ezTree"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/csmiller/EMIRGE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CK7/abawaca"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/popgenmethods/smcpp"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RealTimeGenomics/rtg-core"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chanzuckerberg/shasta"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bcthomas/shrinksam"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hall-lab/speedseq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rvaser/spoa"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/srdc/onfhir"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/maaskola/discrover"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fangly/AmpliCopyrighter"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ChrisCreevey/clann"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hahnlab/CAFE5"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sanger-pathogens/Bio-Tradis"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tseemann/any2fasta"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OpenGene/AfterQC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cmmr/VirMAP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/IMEDEA/mitogenomics"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Usos/SPCS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Oshlack/speckle"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/welch-lab/SquiggleNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nmalysheva/SSATAN-X"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MXHX7199/SNN-SSTDP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Cxd-626/Staem5.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/rbouckaert/starbeast3"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YanglabWCH/StatsPro/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JoWatson2011/subcellularvis"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/i2bc/SURFMAP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/harmancilab/SVAT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/immunogenomics/symphony"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Laboratoire-de-Chemoinformatique/SynthI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jnalanko/syotti"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Jin93/T2DAG"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/babelomics/impuSARS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ebundhoo/TAGOPSIN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mswzeus/TargetNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/llt1836/TE-HI-GCN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/igem-ulaval/toeholder"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Jonathon-Fleming/ToxPi-GIS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Whitlock-Group/TRACER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mkirchler/transferGWAS/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dmiller903/trioPhaser"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Linlab-slu/TSSr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tomouellette/TumE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LDWLab/TwinCons"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SaritaPoonia/unCTC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/doraadong/UNIFAN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/ManolakosLab/viscar"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/IDEA-PRIO/VPMBench"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/Thakar-Lab/wikinetworks"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kundajelab/yuzu"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hoerlteam/YeastMate"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RoccoDAnt/napari-zelda"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kpzoo/EpiFilter"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/praneet1988/ELeFHAnt"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cbalbin-FIU/Epitopedia"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Rohit-Kundu/ET-NET_Covid-Detection"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pengweixing/FACT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/andrea-tango/ficos"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/FOI-Bioinformatics/flextaxd"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/vishsoft/fpadmet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gvignolle/FunOrder"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lsbnb/gabola"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bioinformatics-cdac/gamut"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Woodformation1136/GateMultiplex"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/raduangelescu/GeneBench/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/96jhwei/Genetic-U-Net"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ArnovanHilten/GenNet/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kemerelab/ghostipy/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/indralab/gilda"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gao-lab/GLUE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MengweiLi-project/gmqn"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zelanolab/hfoapp.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SD2E/omics_tools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/reneshbedre/HTSQualC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/amituofo-xf/HUbiPred"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dcgerard/hwep"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Ebedthan/hyperex"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lb-whu/RAS-NET"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/vgl-hub/gfastats"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/samuelefiorini/tangle"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jianlin-cheng/DRCon"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bm2-lab/DrSim/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RamanLab/iCOMIC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OSU-BMBL/IDAM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TPI-Immunogenetics/igmat"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cran/irtplay"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Sirisha-t/iMPP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/fiserlab.org/intercaat"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wanchanglin/ionflow"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/biostatpzeng/IUSMMT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JUMPSuite/JUMPt"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mateog4712/KnotAli"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CL-CHEN-Lab/Kronos_scRT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/marbl/canu"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rochoa85/dockECR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/oxpig/dlab-public"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/breakerlab/dimpl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/senresearch/LiteQTL.jl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sartorius-research/LIVECell"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RudgeLab/LOICA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/alonsoJASL/macrosight"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jchow32/MAGI-MS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/maiziex/MARS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/luntergroup/octopus"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ekimb/rust-mdbg/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MelanieKahl/MechAnalyze"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Vini2/MetaCoAG"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jialiu232/MetaFunPrimer_paper_info.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rkajitani/MetaPlatanus"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BGI-Qingdao/MetaTrass"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/alubbock/microbench"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/iqbal-lab-org/minos"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/inukj/MONTI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LabTrivedi/MOrgAna.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lorinmil/MOSCATO"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DataIntellSystLab/motif_prob"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lassisg/mpthub"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/duartegroup/cgbind"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JupitersMight/DI2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Genome-Bioinformatics-RadboudUMC/DeNovoCNN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/deepomicslab/DeepHost"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Sinwang404/DeepDDS/tree/master"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QingCheng0218/MR.Corr2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fhanau/mspack"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chanw0/MTA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tgstoecker/MuWU"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fuhaitao95/MVGCN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jeffeaton/naomi-model-paper/tree/master/naomi"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/linyuwangPHD/ncDLRES"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LeilaBagha/Conifer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/COMBAT-TB/irida-galaxy-deploy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/egr95/R-codacore"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MdOchiuddinMiah/MI-BCI_ML"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ulelab/clipplotr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HoytWen/CCMDR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Hongweihuo-Lab/CIndex"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lutteropp/NetRAX"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/haoharryfeng/NeuCA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nf-core/mag"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OligoPrime"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JLSteenwyk/orthofisher"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/csbio/Orthrus"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/4dn-dcic/pairix"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/4dn-dcic/pairsqc"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hitbc/panSVR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/boxiangliu/ParaMed"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bigbio/sdrf-pipelines"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/azhu513/swishPaper"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chan-labsite/PCNAdeep"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/vibansal/HapCUT2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pdxgx/pepsickle"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ProteinEngineering-PESB2/peptipedia"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jenwilson521/PhenClust_Supplemental"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/refresh-bio/phist"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ibivu/pipenn/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/siqixu/mr.pivw"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PhanstielLab/plotgardener"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BDI-pathogens/POPART-IBM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/manutamminen/prider"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MeHelmy/princess"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/KYZ-LSB/ProTerS-FitFun"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chemosim-lab/ProLIF"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/thackl/proovframe"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/google-research/proteinfer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SSPuliasis/ProtView"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/RJamali/PSL-Recommender"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/qlu-lab/PUMAS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xuewuzhang-UTSW/PyHI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Tan-group/rsRNASP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DongqingSun96/STRIDE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wuaipinglab/ImmuCC/tree/master/tissue_immucc/SignatureMatrix"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BIDS-Apps/rsHRF"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/compneuro-da/rsHRF"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/alfonsosemeraro/pyplutchik"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nygctech/PySeq2500"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Vicky123wzy/RetroScan"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LieberInstitute/CaPTure"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/itmat/CAMPAREE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kaist-ina/BWA-MEME/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TXiang-lab/blupADC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/milesilab/BioRssay"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gokalpcelik/ROHMMCLI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/enveda/RPath"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zzdxjtu/S-cuda"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hanwencat/SAME-ECOS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wmacnair/SampleQC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BMILAB/scLINE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jianghuaijie/scLRTC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NielsenBerkeleyLab/sconce"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ZJUFanLab/scTITANS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/li-shaochuan/SEDIM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DanilKrivonos/BioCAT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/dayoonkwon/BioAge"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/medema-group/BiG-MAP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CSB5/BEEM-static"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/treangenlab/bakdrive"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cew88/AutoCAT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cihga39871/Atria"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LucaGiudice/Simpati"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/XWangLab/SMAP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rabier/MySnappNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/almeidasilvaf/SoyFungiGCN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/grybnicky/Spacer2PAM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/osmanbeyoglulab/SPaRTAN/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/avigayel/SRCP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sheilagaynor/STAAR_workflow"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GatorSense/STARSEED"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/qlu-lab/SUPERGNOVA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Meiomap/SureTypeSCR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sportingCode/SWIMmeR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zuozhaorui/SWnet.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/skhalighicase/SYS-Mut"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://www.github.com/amoesch/TCRpair"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rasma774/Tftenricher"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/violet-sto/TGSA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/abodein/timeOmics"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zexian/TISMO_data"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wmglab-duke/ascent"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Dulab2020/ARMT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/jimmink/argslab"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SPARC-FAIR-Codeathon/aqua"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yiling0210/APIR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kritiyer/AngioNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/EpistasisLab/tpot"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ChaissonLab/TT-Mars.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/abs-tudelft/variant-calling-at-scale"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kfletcher88/VCFvariance"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/clay001/Velo-Predictor"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pauloluniyi/VGEA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fhaive/VOLTA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TimHHH/XBS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lab319/XGBLC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hitbc/xQTLimp"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/adibayaseen/HemoNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DigitalSlideArchive/HistomicsTK"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SarderLab/Histo-cloud"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/alonalj/hta"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/houzl3416/iDeepSubMito"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YangHuan639/iEnhancer-RD"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/findCP/findCPcli"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BigDataInSilicoBiologyGroup/IgemRNA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mensenyat/iGlioSub"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OpenMendel/MendelIHT.jl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/stjude/indelPost"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BGI2016/IntroSpect"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/vincent-hanlon/InvertypeR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tzyRachel/K-anonymity-Expectation"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sscottgraham/ConflictMetrics"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/menchelab/VRNetzer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/heejungshim/WaveQTL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/vgteam/vg_wdl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/babelomics/MIGNON"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Ilarius/metaDEA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kilicogluh/lbd-covid"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xasdzxc/FactorHNE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bahlolab/exSTRa"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CapraLab/DiGePred"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ejp-rd-vp/CDE-semantic-model"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Oxford-Eye/SVRare"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bcgsc/straglr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BieseckerLab/SomatoSim"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/koeppl/phoni"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Clinical-Genomics/patientMatcher"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jielab/pageant"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/fabiocarrara/meye"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Oshlack/MINTIE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/muntisa/immuno-drug-repurposing-COVID-19"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mfruzan/HaploMaker"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/IMB-Computational-Genomics-Lab/scGPS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/csbioinfopk/iSumoK-PseAAC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rauschenberger/joinet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/drzeeshanahmed/JWES-DB"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DataIntellSystLab/KARGA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MolecularAI/Lib-INVENT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sangzhe/Llamanade"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CirculatoryHealth/LoFTK"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Yufei-Huang-Lab/m6Aexpress"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Vivianstats/MAAPER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/FelicienLL/mapbayr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/unisb-bioinf/MERIDA.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kalininalab/metaprofi"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/metashot/prok-quality"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/anands-repo/hello"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/s175573/GIANA51"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/clara-parabricks/GEPSi"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/koesterlab/microphaser"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pchlenski/misdeed"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ktan8/ModTect"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lol88/Mol2Context-vec"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/anabelacampos/MorphData"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MetabolomicsSA/MStractor"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/siyao-liu/MultiK"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/jimiwills/assay.R/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hallz/massPix"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PGB-LIV/neo-pep-tool/releases/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JosieLHayes/simExTargId"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PNNL-Comp-Mass-Spec/PIXiE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/coongroup/LipiDex"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/haschka/sequence_in_sequence_finder"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Liuxg16/GeoPPI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MarioniLab/geneBasisR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rastanton/GAMMA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/groverlab/candycodes"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/SimpleForest/computree/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/IgnacioFabietti/SANTIAtoolbox"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GTseq/GTseq-Pipeline"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/alexyermanos/Echidna"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SouthGreenPlatform/CulebrONT_pipeline"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/agemagician/ProtTrans"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CSBiology/iMLP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/beherasan/MS2Compound"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xiayuan-huang/E-pedigrees"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HUST-DataMan/FRMC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/brainets/frites"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/IBM/fold2seq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ZhaiLab-SUSTech/FLEPSeq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/demichelislab/FaME"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/biocorecrg/ExOrthist"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/s-a-nersisyan/ExhauFS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Huising-Lab/epiRomics"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cliffgao/EAGERER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/InfluenceFunctional/E2EDNA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mahan-fcb/DSResSol"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/powellgenomicslab/DropletQC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/miracum/dqa-dqastats"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/IFB-ElixirFr/edam-browser"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MaidiL/MANIEA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OHDSI/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zenanz/ChemTables"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chenxiaowei-vincent/XGraphBoost"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fhrzic/XAOM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/liedllab/X-Entropy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cjvanlissa/worcs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lrming1993/WMFVS_codes"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QSG-Group/WISH"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SunPengChuan/wgdi"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wame-ng/DLFF-ACP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xuechunxu/DiTing"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/guofei-tju/DHRLS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QuKunLab/WEDGE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/aedera/deepredmt"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/devalab/DeepPocket"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/birajaghoshal/DeepHistoClass"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/fhausmann/deepgrp"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Mamunur-20/DeepCervix"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/goncalves-lab/waddR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YaleTHz/nelly"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/linDing-groups/Deep-4mCW2V"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/vfonov/DARQ"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AdrianA-T/cytomorph"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/korcsmarosgroup/CytokineLink"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/seriph78/COTAN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/umr-ds/NOREC4DNA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PathologyDataScience/NuCLS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rpmccordlab/CoSTA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CPerscheid/Comprior"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/onkarS23/CoAMPpred"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tf2/CNest.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gvlproject/cloudbridge"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AFBuratin/circIMPACT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/xfcui/onn4arg"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/BioimageInformaticsGroup/openphi"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TheBrownLab/PhyloFisher"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bushlab-genomics/POKEMON"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jhhung/Premnas"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/miguelarenas/proteinevolverabc"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/elcortegano/purgeR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mjflab/chinn"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BoevaLab/CHIPIN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mtzgroup/ChemPixCH"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MRCIEU/CheckSumStats"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ShellyCoder/cellcall"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rheinbaylab/cDNA-detector"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jszym/rapppid"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lzbbest/Rhythmic-Component-Analysis-Tool"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shishuo16/RefRGim"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/gcollet/regulus"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Ettwiller/RIMS-seq/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/suhanaser/Rootstrap"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TeamAIRE/RRNPP_detector"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/st707311g/RSAtrace3D"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/weiquan/SALT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TakahiroYamada/SBMLWebApp"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YangLab/SCAPTURE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/colabobio/sciviewer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Searchlight2/Searchlight2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/htczero/SeqDistK"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shohre73/sigtools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ChristineBlume/SleepCycles"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HuMingLab/SnapHiC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/eltonjrv/microbiome.westernu/tree/SOP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JacksonLab/SorTn-seq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/deepomicslab/SpecHap"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PapenfussLab/svaNUMT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PapenfussLab/svaRetro"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mourelatos-lab/TERA-Seq_manuscript"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DongqiangZeng0808/TMEscore"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/trueto/transformers_sklearn"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yqzhong7/AIPW"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MunzT/VisME"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dermasugita/Viola-SV/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Genomics-HSE/VGsim"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhanglabNKU/VGAELDA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wgzgithub/VeTra"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/caurwx1/VDPtools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/elimuinformatics/vcf2fhir"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Aviatore/vcf2caps"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CVI-SZU/WaveCNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/redsnic/WGA-LP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/carmonalab/UCell"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ndovro/ZWA/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/himelmallick/Tweedieverse"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Boyle-Lab/RegulomeDB-TURF"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://www.github.com/zygurt/TSM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tlawrence3/tSFM"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/liulab-dfci/TRUST4"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/mainlabwsu/tripal_megasearch"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hansenlab/tricycle"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/jaleesr/TrendCatcher"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OpenMendel/TraitSimulation.jl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Eggeling-Lab-Microscope-Software/TRAIT2D"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TheRocinante-lab/TrainSel"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pedronachtigall/ToxCodAn"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cathedralpkg/TorsiFlex"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Schallaven/topino"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/NENUBioCompute/TMP-SSurface-2.0"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TinkerTools/tinker-hp"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/TheKorenLab/TIGER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/alevar/tiebrush"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ViCCo-Group/THINGSvision"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/biofold/ThermoScan"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/emmijokinen/TCRGP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Croxa/tbg-tools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shenwei356/taxonkit"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bwemheu/Tax4Fun2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Max-Highsmith/TAPIOCA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/moritzdannhauer/TAP"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/leonid-sokolinsky/BSF-skeleton"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/ETh_TU_Delft/Brick-CFCMC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/midiacom/BNS-Framework"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LQCT/BitQT.git"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/efajiculay/SysBioSoft/tree/main/BioSANS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ziyewang/ARG_SHINE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ForomePlatform/AnFiSA#public-demo"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MannLabs/alphatims"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tdseher/addtag-project"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bgoch5/abmr/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tyiannak/amvoc/tree/master"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mariallr/amanida"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BiodataAnalysisGroup/InterTADs"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MannLabs/alphamap"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Oshlack/AllSorts/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Citrullia-SDU/Citrullia"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SIAT-code/AIMEE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/menghaomiao/aitr"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/bfr_bioinformatics/chewieSnake"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hehew321/iDeepC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HuanLab/ISFrag"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Heng-Z/IsoNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MatthiasLienhard/isotools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/apple35932003/IVS-Caffe"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MadsAlbertsen/ampvis2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gerners/tamock"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kangyup/TAILOR-MS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shuchao1212/TA-Net"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Global-Biofoundries-Alliance/SynBioPython"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BaoCodeLab/SweepCluster"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sam-uofl/SwarnSeq"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/aeyliu/swam"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/rakheon/svreg"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mrcuizhe/svmATAC"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GWYSDU/SVLR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lfpaulin/SVhound"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chadcreighton/SVExpress"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/bahlolab/superSTR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yueyu1030/SumGNN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HuanLab/SteroidXtract"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hullahalli/stampr_rtisan"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CSUBioGroup/SSRE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kanz76/SSI-DDI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zy456/SSBER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BioinformaticsLabAtMUN/sRNARFTarget"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/treangenlab/squeegee"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/oma219/spumoni"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lxlsu/SPP_CPI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/3BioCompBio/SpikeProSARS-CoV-2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BenoitMorel/GeneRax"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/machiela-lab/sparrpowR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JaneliaSciComp/SongExplorer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gnina/SolTranNet"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://www.github.com/mikdio/SOBDetector"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ikmb/snpint-gpu"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/khanhlee/snare-cnn"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/LeidelLab/SMITER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MIB-Lab/SMILE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dayunliu/SMALF"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DiNg1011/SLMGAE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ydLiu-HIT/SKSV"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ciccalab/SIMPLI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dieterich-lab/JACUSA2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GMOD/JBrowseR/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/JieZheng-ShanghaiTech/KG4SL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Mahmoudhallal/KAEA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/moshejasper/kindisperse"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gilsonshimizu/ldacov"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/swidler/linadmix"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CDCgov/TB_molecular_epidemiology"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/perpdgo/lme4GS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PINE-Lab/HAPPE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PINE-Lab/HAPPE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HAMdetector/Escape.jl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AEVO-lab/EndoRex"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LernerLab/GuPPy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ylab-hi/lncGSEA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/YakhiniGroup/LoRSI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/chiemotono/mdcontactcom"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/LindaNab/mecor"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/arangrhie/merfin"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/genner-lab/meta-fish-lib"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ziyewang/MetaBinner"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MRCIEU/metaboprep"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PGB-LIV/MHCVision"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/plus-microstate/toolbox"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Genentech/MiDAS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dekamps/miind"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/opieters/MIRRA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hannenhalli-lab/miRSCAPE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/dmis-lab/moable"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/maxrossi91/moni"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/danielwalke/MPA_Pathway_Tool"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/SunKaijia0065/MRIES"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mohimanilab/MS2Planner"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/CJNabla/MultiSourcCFS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/agrosavia-bioinformatics/multiGWAS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/hippo-yf/MUREN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/b2slab/mWISE"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HarrisonAllen/MyelTracer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/popitsch/nanopanel2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/gangwug/nCV"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/zhangjbig/neoDL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/bcm-hgsc/neptune"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/VartikaBisht6197/NFnetFu"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/raziyehmasumshah/NNPS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/anki-xyz/openhsv"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sandialabs/OperonSEQer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/OPUS-MaLab/opus_rota4"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/arthurpessa/ordpy"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/shuangsong0110/OWAS"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Kainmueller-Lab/PatchPerPixMatch"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lyotvincent/PBGI"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/krumsieklab/sgi"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/usgs/sfrmaker"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/keitaroyam/servalcat"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/DaehwanKimLab/seqwho"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://www.gitlab.com/treangenlab/seqscreen"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Danis102/seqpac"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Niema-Lab/SEPIA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/almaan/sepal"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/hlju-liye/SENIES"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cailab-tamu/scTenifoldKnk"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QuKunLab/scSO"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/GWW/scsnv"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/elolab/scshaper"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Zechuan-Chen/scSensitiveGeneDefine"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/songlab-cal/scquint"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ComputationalSystemsBiology/scNET"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/scikit-activeml/scikit-activeml"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/lcmmichielsen/scHPL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mattg3004/Schistoxpkg.jl"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/yhoogstrate/bam-lorenz-coverage"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/liu-bioinfo-lab/scHiCTools"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Scu-sen/Sch-net"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/parashardhapola/scarf"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Haoyulance/SC-GAN"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/datapplab/SBGNview"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sportingCode/SAveRUNNER"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mzlr/sau-net"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/elodiegermani/SAPHIR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/HSE-LAMBDA/sango"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/tbrunetti/SAIGE-BRUSH"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Sepstar/RWRF/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/limfuxing/ruvIIInb/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/joaohmorais/rtabnetsp"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/PreibischLab/RadialSymmetryLocalization"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/komorowskilab/R.ROSETTA"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/MasakiLin/RNASeqDesign"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Ibvt/RNAnue"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "http://github.com/riboviz/riboviz"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/obrien-lab/aip_web_docker"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/noble-research-institute/RhizoVisionExplorer"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/flu-crew/rf-net-2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/cmt2/RevGadgets"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/IIT-LAND/reval_clustering"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://gitlab.com/hsgweon/ResPipe"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://www.github.com/coevoeco/Rephine.r"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/coexps/Rephine"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/sujunhao/RENET2"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/guilledufort/RENANO"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/chaoss/grimoirelab-elk"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/wcmc-its/reciter/"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QinglinMei/RCSL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/nmt315320/rBPDL"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/AnqiWang2021/RBMR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QE-Lab/QuASeR"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/c-arthurs/QuArray"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/QSMxT/QSMxT"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/ejh516/pystachio-smt"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/budach/pysster"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/kotori-y/pySmash"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/mssm-labmmol/pypolybuilder"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/Kzra/pykrev"
+    },
+    {
+        "community": "LS-RI",
+        "github_url": "https://github.com/BrainsOnBoard/pygenn_paper"
+    }
+]
