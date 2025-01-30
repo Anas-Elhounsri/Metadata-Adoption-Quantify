@@ -6,15 +6,17 @@ This software extracts relevant data from SOMEF (Software Metadata Extraction Fr
 
 ## Table of Contents
 
-- [About the Software](#about-the-software)
-- [Research Questions](#research-questions)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Output Format](#output-format)
+- [Metadata-Adoption-Quantify](#metadata-adoption-quantify)
+  - [Table of Contents](#table-of-contents)
+  - [About the Software](#about-the-software)
+  - [Research Questions](#research-questions)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Output](#output)
 
 ## About the Software
 
-This tool is designed to process metadata extracted using SOMEF, focusing on answering predefined research questions. It parses the data from SOMEF's output and generates JSON files with the information relevant to each research question (RQ).
+This tool is designed to process metadata extracted using SOMEF, focusing on answering predefined research questions. It parses the data from SOMEF's output and generates JSON files with the information relevant to each research question (RQ) and generating calculations for each data requested.
 
 ## Research Questions
 
@@ -51,15 +53,40 @@ You can extract SOMEF output (Already extracted) with:
   ```bash
   python run_somef.py
   ```
-In order to use, you can run every RQ individually with an example:
+In order to use, you can run every RQ individually using the `main.py`:
 
    ```bash
-   python rq1.py
+   python main.py
    ```
+And it will prompt you the following:
 
+  ```bash
+=== Main Menu ===
+1. Run RQ scripts
+2. Calculate results
+exit. Quit
+Choose an option (1/2/exit): 
+  ```
+If you choose 1. you will be able to choose which research question you wish to answer:
+
+  ```bash
+Available RQ scripts:
+1. rq1.py
+2. rq2.py
+3. rq3.py
+4. rq4.py
+5. rq5.py
+Enter RQ number (1-5) or 'back': 
+ ```
+Once you choose an RQ, you will be prompted to put some input regarding the naming of the files, the directories etc... (You need to follow the same naming of the already existing files if you wish to use `count_results.py` to iterate through the results of analysis and calculate the final results, for example for rq1, you should name the output for envri `analysis_envri_rq1.json`, check the rest of the files to follow the naming convention)
+
+If in the main menu you choose 2. you will be prompted to fill in the directory of the results, and the cluster you wish to calculate for:
+  ```bash
+Running results calculation...
+Input the research question (rq1, rq2, rq3, rq4, rq5) or type 'exit' to quit: 
+```
 ## Output
-
-This is an output example of RQ1 from one cluster:
+If you choose to get the somef results of RQ1 and input the prompts accordingly, you get this result for RQ1 from one cluster (This is ESCAPE)
 ```bash
 {
     "citation.cff": {
@@ -69,70 +96,75 @@ This is an output example of RQ1 from one cluster:
         "count": 17
     },
     "package": {
-        "count": 13,
+        "count": 7,
         "files": [
-            "temp_analysis/escape2020\\cds-astro_aladin-lite\\aladin-lite-3.3.2\\package.json",
-            "temp_analysis/escape2020\\cds-astro_aladin-lite\\aladin-lite-3.3.2\\src\\core\\Cargo.toml",
-            "temp_analysis/escape2020\\cds-astro_aladin-lite\\aladin-lite-3.3.2\\src\\core\\al-api\\Cargo.toml",
-            "temp_analysis/escape2020\\cds-astro_aladin-lite\\aladin-lite-3.3.2\\src\\core\\al-core\\Cargo.toml",
-            "temp_analysis/escape2020\\cds-astro_aladin-lite\\aladin-lite-3.3.2\\src\\core\\al-task-exec\\Cargo.toml",
-            "temp_analysis/escape2020\\cds-astro_cds-moc-rust\\cds-moc-rust-main\\Cargo.toml",
-            "temp_analysis/escape2020\\cds-astro_cds-moc-rust\\cds-moc-rust-main\\crates\\cli\\Cargo.toml",
-            "temp_analysis/escape2020\\cds-astro_cds-moc-rust\\cds-moc-rust-main\\crates\\set\\Cargo.toml",
-            "temp_analysis/escape2020\\cds-astro_cds-moc-rust\\cds-moc-rust-main\\crates\\wasm\\Cargo.toml",
-            "temp_analysis/escape2020\\cds-astro_mocpy\\mocpy-0.15.0\\Cargo.toml",
-            "temp_analysis/escape2020\\escape2020_school2022\\school2022-1.0\\docs\\themes\\dream\\package.json",
-            "temp_analysis/escape2020\\escape2020_school2022\\school2022-1.0\\testing\\fibonacci\\setup.cfg",
-            "temp_analysis/escape2020\\gammapy_gammapy\\gammapy-1.2\\setup.cfg"
+            "temp_analysis/escape2020/gammapy_gammapy/gammapy-1.2/setup.cfg",
+            "temp_analysis/escape2020/cosimoNigro_agnpy/agnpy-master/setup.py",
+            "temp_analysis/escape2020/IndexedConv_IndexedConv/IndexedConv-1.3.2/setup.py",
+            "temp_analysis/escape2020/cds-astro_cds-moc-rust/cds-moc-rust-main/Cargo.toml",
+            "temp_analysis/escape2020/cds-astro_mocpy/mocpy-0.15.0/Cargo.toml",
+            "temp_analysis/escape2020/cds-astro_aladin-lite/aladin-lite-3.3.2/package.json",
+            "temp_analysis/escape2020/escape2020_school2022/school2022-1.0/docs/themes/dream/package.json"
         ]
     },
     "authors": {
         "count": 2,
         "files": [
-            "temp_analysis/escape2020\\FairRootGroup_FairMQ\\FairMQ-master\\AUTHORS",
-            "temp_analysis/escape2020\\R3BRootGroup_R3BRoot\\R3BRoot-jun24\\AUTHORS"
+            "temp_analysis/escape2020/R3BRootGroup_R3BRoot/R3BRoot-jun24/AUTHORS",
+            "temp_analysis/escape2020/FairRootGroup_FairMQ/FairMQ-master/AUTHORS"
         ]
     },
     "contributors": {
-        "count": 3
+        "count": 3,
+        "files": [
+            "output_4.json",
+            "output_11.json",
+            "output_5.json"
+        ]
     },
     "license": {
         "count": 17
     },
     "codemeta.json": {
-        "count": 16,
+        "count": 15,
         "files": [
-            "temp_analysis/escape2020\\aardk_jupyter-casa\\jupyter-casa-master\\codemeta.json",
-            "temp_analysis/escape2020\\AMIGA-IAA_hcg-16\\hcg-16-1.2.3\\codemeta.json",
-            "temp_analysis/escape2020\\cds-astro_aladin-lite\\aladin-lite-3.3.2\\codemeta.json",
-            "temp_analysis/escape2020\\cds-astro_cds-moc-rust\\cds-moc-rust-main\\codemeta.json",
-            "temp_analysis/escape2020\\cds-astro_mocpy\\mocpy-0.15.0\\codemeta.json",
-            "temp_analysis/escape2020\\cds-astro_tutorials\\tutorials-1.0.3\\codemeta.json",
-            "temp_analysis/escape2020\\cosimoNigro_agnpy\\agnpy-master\\codemeta.json",
-            "temp_analysis/escape2020\\explore-platform_g-tomo\\g-tomo-2\\codemeta.json",
-            "temp_analysis/escape2020\\FairRootGroup_FairMQ\\FairMQ-master\\codemeta.json",
-            "temp_analysis/escape2020\\gammapy_gammapy\\gammapy-1.2\\codemeta.json",
-            "temp_analysis/escape2020\\IndexedConv_IndexedConv\\IndexedConv-1.3.2\\codemeta.json",
-            "temp_analysis/escape2020\\javierrico_gLike\\gLike-master\\codemeta.json",
-            "temp_analysis/escape2020\\JColl88_sdc1-solution-binder\\sdc1-solution-binder-1.0.0\\codemeta.json",
-            "temp_analysis/escape2020\\R3BRootGroup_R3BRoot\\R3BRoot-jun24\\codemeta.json",
-            "temp_analysis/escape2020\\repo\\eossr-master\\codemeta.json",
-            "temp_analysis/escape2020\\repo\\eossr-master\\eossr\\metadata\\schema\\codemeta.json"
+            "temp_analysis/escape2020/gammapy_gammapy/gammapy-1.2/codemeta.json",
+            "temp_analysis/escape2020/cosimoNigro_agnpy/agnpy-master/codemeta.json",
+            "temp_analysis/escape2020/IndexedConv_IndexedConv/IndexedConv-1.3.2/codemeta.json",
+            "temp_analysis/escape2020/cds-astro_cds-moc-rust/cds-moc-rust-main/codemeta.json",
+            "temp_analysis/escape2020/aardk_jupyter-casa/jupyter-casa-master/codemeta.json",
+            "temp_analysis/escape2020/cds-astro_tutorials/tutorials-1.0.3/codemeta.json",
+            "temp_analysis/escape2020/R3BRootGroup_R3BRoot/R3BRoot-jun24/codemeta.json",
+            "temp_analysis/escape2020/AMIGA-IAA_hcg-16/hcg-16-1.2.3/codemeta.json",
+            "temp_analysis/escape2020/repo/eossr-master/codemeta.json",
+            "temp_analysis/escape2020/JColl88_sdc1-solution-binder/sdc1-solution-binder-1.0.0/codemeta.json",
+            "temp_analysis/escape2020/explore-platform_g-tomo/g-tomo-2/codemeta.json",
+            "temp_analysis/escape2020/cds-astro_mocpy/mocpy-0.15.0/codemeta.json",
+            "temp_analysis/escape2020/javierrico_gLike/gLike-master/codemeta.json",
+            "temp_analysis/escape2020/cds-astro_aladin-lite/aladin-lite-3.3.2/codemeta.json",
+            "temp_analysis/escape2020/FairRootGroup_FairMQ/FairMQ-master/codemeta.json"
         ]
     },
     "zenodo.json": {
-        "count": 0,
-        "files": []
+        "count": 5,
+        "files": [
+            "temp_analysis/escape2020/cosimoNigro_agnpy/agnpy-master/.zenodo.json",
+            "temp_analysis/escape2020/cds-astro_cds-moc-rust/cds-moc-rust-main/.zenodo.json",
+            "temp_analysis/escape2020/aardk_jupyter-casa/jupyter-casa-master/.zenodo.json",
+            "temp_analysis/escape2020/javierrico_gLike/gLike-master/.zenodo.json",
+            "temp_analysis/escape2020/FairRootGroup_FairMQ/FairMQ-master/.zenodo.json"
+        ]
     },
     "identifier_extract": {
-        "count": 6,
+        "count": 7,
         "extracted_values": [
-            "10.5281/zenodo.1689985",
-            "10.5281/zenodo.4055175",
             "10.5281/zenodo.3967385",
+            "10.5281/zenodo.7544514",
+            "https://zenodo.org/badge/latestdoi/224865065",
+            "10.5281/zenodo.1689985",
             "10.5281/zenodo.3967385",
             "10.5281/zenodo.10405177",
-            "10.5281/zenodo.7544514"
+            "10.5281/zenodo.4055175"
         ]
     },
     "None": {
@@ -140,10 +172,26 @@ This is an output example of RQ1 from one cluster:
     }
 }
 ```
+> [!WARNING]
+> Should be noted, that due to the large size of the files for `temp_analysis`, this directory is not be available on this repository, it is impossible to upload it on GitHub, you can extract using `SoMEF` (it automatically keeps the `temp_files`). From these results, we can answer all RQs.
 
-Should be noted, the "files" section is not be available due to the size of each repositories, it is impossible to upload it on GitHub, they are extracted from SOMEF. From these results, we can answer RQ1.
+If you choose to calculate the results of the cluster you will get the following output:
 
-
-
+```bash
+{
+    "escape": {
+        "cff": 5.88235294117647,
+        "readme": 100.0,
+        "package": 41.17647058823529,
+        "authors": 11.76470588235294,
+        "contributors": 17.647058823529413,
+        "license": 100.0,
+        "codemeta": 88.23529411764706,
+        "zenodo": 29.411764705882355,
+        "zenodo_doi": 41.17647058823529,
+        "none": 0.0
+    }
+}
+```
 
 
