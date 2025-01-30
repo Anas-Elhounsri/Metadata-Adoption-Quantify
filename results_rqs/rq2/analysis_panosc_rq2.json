@@ -1,101 +1,101 @@
 {
     "results": [
         {
-            "githublink": "https://github.com/id03/binoculars",
+            "github_link": "https://github.com/id03/binoculars",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/jackey-qiu/DaFy",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kif/dahu",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/European-XFEL/EXtra-data",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/European-XFEL/EXtra-geom",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/silx-kit/fabio",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/kif/freesas/",
             "in_swh": false
         },
         {
-            "githublink": "https://github.com/jackey-qiu/DaFy",
+            "github_link": "https://github.com/European-XFEL/h5glance",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ElettraSciComp/h5nuvola",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/silx-kit/h5web",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/PaNOSC-ViNYL/McStasScript",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/maxiv-science/nanomax-analysis-utils",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ElettraSciComp/Pore3D",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ElettraSciComp/PtychoAlignTools",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/pyFAI",
             "in_swh": false
         },
         {
-            "githublink": "https://github.com/kif/dahu",
+            "github_link": "https://github.com/vasole/pymca",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/QENSlibrary/QENSmodels",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/SasView/",
             "in_swh": false
         },
         {
-            "githublink": "https://github.com/European-XFEL/EXtra-data",
+            "github_link": "https://github.com/DiamondLightSource/Savu",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/ElettraSciComp/STP-Gui",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tschoonj/xmimsim",
+            "in_swh": true
+        },
+        {
+            "github_link": "https://github.com/tschoonj/xraylib/wiki",
             "in_swh": false
         },
         {
-            "githublink": "https://github.com/European-XFEL/EXtra-geom",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/silx-kit/fabio",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/kif/freesas/",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/European-XFEL/h5glance",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/ElettraSciComp/h5nuvola",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/silx-kit/h5web",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/PaNOSC-ViNYL/McStasScript",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/maxiv-science/nanomax-analysis-utils",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/ElettraSciComp/Pore3D",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/ElettraSciComp/PtychoAlignTools",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/pyFAI",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/vasole/pymca",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/QENSlibrary/QENSmodels",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/SasView/",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/DiamondLightSource/Savu",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/ElettraSciComp/STP-Gui",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/tschoonj/xmimsim",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/tschoonj/xraylib/wiki",
-            "in_swh": false
-        },
-        {
-            "githublink": "https://github.com/golosio/xrmc",
-            "in_swh": false
+            "github_link": "https://github.com/golosio/xrmc",
+            "in_swh": true
         }
     ],
     "summary": {
-        "count_in_swh": 0,
-        "count_not_in_swh": 23
+        "count_in_swh": 19,
+        "count_not_in_swh": 4
     },
     "links_swh": {
         "count": 0,

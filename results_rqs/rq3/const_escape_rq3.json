@@ -34,7 +34,7 @@
         },
         "output_4.json": {
             "is_consistent": true,
-            "classification": "Calendar"
+            "classification": "Alphanumeric"
         },
         "output_11.json": {
             "is_consistent": true,
@@ -66,8 +66,8 @@
         "inconsistent_count": 3,
         "class_counts": {
             "Semantic": 11,
-            "Calendar": 1,
-            "Alphanumeric": 3,
+            "Calendar": 0,
+            "Alphanumeric": 4,
             "Other": 0
         }
     }

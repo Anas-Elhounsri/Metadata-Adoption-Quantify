@@ -210,39 +210,39 @@
                 "output_4.json": [
                     {
                         "version": "jun24",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     },
                     {
                         "version": "may24",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     },
                     {
                         "version": "nov23",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     },
                     {
                         "version": "sep22",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     },
                     {
                         "version": "oct21",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     },
                     {
                         "version": "may21",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     },
                     {
                         "version": "aug19",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     },
                     {
                         "version": "jan18",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     },
                     {
                         "version": "apr17",
-                        "classification": "Calendar"
+                        "classification": "Alphanumeric"
                     }
                 ]
             },

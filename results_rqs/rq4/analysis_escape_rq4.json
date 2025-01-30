@@ -100,10 +100,11 @@
                     "name": "Unknown License"
                 }
             ]
+        },
+        "no_license": {
+            "count": 0,
+            "files": []
         }
-    },
-    "no_license": {
-        "count": 0
     },
     "installation": {
         "count": 11
@@ -116,10 +117,5 @@
     },
     "documentation": {
         "count": 8
-    },
-    "authors_id": {
-        "count": 0,
-        "files": [],
-        "ORCID_count": 0
     }
 }

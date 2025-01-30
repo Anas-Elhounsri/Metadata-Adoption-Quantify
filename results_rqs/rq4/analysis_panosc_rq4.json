@@ -105,26 +105,32 @@
                     "name": "Unknown License"
                 }
             ]
+        },
+        "no_license": {
+            "count": 3,
+            "files": [
+                {
+                    "file": "output_23.json"
+                },
+                {
+                    "file": "output_1.json"
+                },
+                {
+                    "file": "output_14.json"
+                }
+            ]
         }
-    },
-    "no_license": {
-        "count": 3
     },
     "installation": {
         "count": 11
     },
     "requirements": {
-        "count": 1
+        "count": 2
     },
     "download": {
         "count": 0
     },
     "documentation": {
         "count": 13
-    },
-    "authors_id": {
-        "count": 0,
-        "files": [],
-        "ORCID_count": 0
     }
 }

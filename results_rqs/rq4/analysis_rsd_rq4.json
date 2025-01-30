@@ -2092,26 +2092,68 @@
                     "name": "Unknown License"
                 }
             ]
+        },
+        "no_license": {
+            "count": 15,
+            "files": [
+                {
+                    "file": "output_239.json"
+                },
+                {
+                    "file": "output_455.json"
+                },
+                {
+                    "file": "output_225.json"
+                },
+                {
+                    "file": "output_433.json"
+                },
+                {
+                    "file": "output_152.json"
+                },
+                {
+                    "file": "output_302.json"
+                },
+                {
+                    "file": "output_350.json"
+                },
+                {
+                    "file": "output_443.json"
+                },
+                {
+                    "file": "output_463.json"
+                },
+                {
+                    "file": "output_449.json"
+                },
+                {
+                    "file": "output_181.json"
+                },
+                {
+                    "file": "output_336.json"
+                },
+                {
+                    "file": "output_228.json"
+                },
+                {
+                    "file": "output_124.json"
+                },
+                {
+                    "file": "output_458.json"
+                }
+            ]
         }
-    },
-    "no_license": {
-        "count": 15
     },
     "installation": {
         "count": 262
     },
     "requirements": {
-        "count": 79
+        "count": 84
     },
     "download": {
-        "count": 10
+        "count": 11
     },
     "documentation": {
         "count": 253
-    },
-    "authors_id": {
-        "count": 0,
-        "files": [],
-        "ORCID_count": 0
     }
 }

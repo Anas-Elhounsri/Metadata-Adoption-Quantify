@@ -6,30 +6,33 @@
         "count": 20
     },
     "package": {
-        "count": 8,
+        "count": 11,
         "files": [
+            "temp_analysis/panosc/maxiv-science_nanomax-analysis-utils/nanomax-analysis-utils-master/setup.py",
+            "temp_analysis/panosc/kif_freesas/freesas-main/setup.py",
+            "temp_analysis/panosc/vasole_pymca/pymca-master/setup.py",
+            "temp_analysis/panosc/jackey-qiu_DaFy/DaFy-master/util/binoculars/binoculars-master_ccoscan/setup.py",
+            "temp_analysis/panosc/PaNOSC-ViNYL_McStasScript/McStasScript-master/setup.py",
+            "temp_analysis/panosc/European-XFEL_EXtra-geom/EXtra-geom-master/setup.py",
             "temp_analysis/panosc/DiamondLightSource_Savu/Savu-master/setup.cfg",
-            "temp_analysis/panosc/silx-kit_h5web/h5web-main/package.json",
-            "temp_analysis/panosc/silx-kit_h5web/h5web-main/apps/demo/package.json",
-            "temp_analysis/panosc/silx-kit_h5web/h5web-main/apps/storybook/package.json",
-            "temp_analysis/panosc/silx-kit_h5web/h5web-main/packages/lib/package.json",
-            "temp_analysis/panosc/silx-kit_h5web/h5web-main/packages/h5wasm/package.json",
-            "temp_analysis/panosc/silx-kit_h5web/h5web-main/packages/app/package.json",
-            "temp_analysis/panosc/silx-kit_h5web/h5web-main/packages/shared/package.json"
+            "temp_analysis/panosc/id03_binoculars/binoculars-master/setup.py",
+            "temp_analysis/panosc/European-XFEL_EXtra-data/EXtra-data-master/setup.py",
+            "temp_analysis/panosc/kif_dahu/dahu-master/setup.py",
+            "temp_analysis/panosc/silx-kit_h5web/h5web-main/package.json"
         ]
     },
     "authors": {
-        "count": 5,
+        "count": 4,
         "files": [
             "temp_analysis/panosc/golosio_xrmc/xrmc-master/AUTHORS",
             "temp_analysis/panosc/jackey-qiu_DaFy/DaFy-master/util/binoculars/binoculars-master_ccoscan/AUTHORS",
-            "temp_analysis/panosc/jackey-qiu_DaFy/DaFy-master/util/binoculars/binoculars-master/AUTHORS",
             "temp_analysis/panosc/id03_binoculars/binoculars-master/AUTHORS",
             "temp_analysis/panosc/tschoonj_xraylib/xraylib-master/AUTHORS"
         ]
     },
     "contributors": {
-        "count": 0
+        "count": 0,
+        "files": []
     },
     "license": {
         "count": 18

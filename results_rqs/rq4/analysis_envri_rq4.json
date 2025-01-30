@@ -1380,26 +1380,725 @@
                     "name": "Unknown License"
                 }
             ]
+        },
+        "no_license": {
+            "count": 234,
+            "files": [
+                {
+                    "file": "output_332.json"
+                },
+                {
+                    "file": "output_198.json"
+                },
+                {
+                    "file": "output_446.json"
+                },
+                {
+                    "file": "output_157.json"
+                },
+                {
+                    "file": "output_129.json"
+                },
+                {
+                    "file": "output_171.json"
+                },
+                {
+                    "file": "output_90.json"
+                },
+                {
+                    "file": "output_260.json"
+                },
+                {
+                    "file": "output_451.json"
+                },
+                {
+                    "file": "output_352.json"
+                },
+                {
+                    "file": "output_500.json"
+                },
+                {
+                    "file": "output_185.json"
+                },
+                {
+                    "file": "output_355.json"
+                },
+                {
+                    "file": "output_406.json"
+                },
+                {
+                    "file": "output_140.json"
+                },
+                {
+                    "file": "output_483.json"
+                },
+                {
+                    "file": "output_184.json"
+                },
+                {
+                    "file": "output_143.json"
+                },
+                {
+                    "file": "output_510.json"
+                },
+                {
+                    "file": "output_161.json"
+                },
+                {
+                    "file": "output_360.json"
+                },
+                {
+                    "file": "output_216.json"
+                },
+                {
+                    "file": "output_281.json"
+                },
+                {
+                    "file": "output_13.json"
+                },
+                {
+                    "file": "output_213.json"
+                },
+                {
+                    "file": "output_371.json"
+                },
+                {
+                    "file": "output_485.json"
+                },
+                {
+                    "file": "output_193.json"
+                },
+                {
+                    "file": "output_229.json"
+                },
+                {
+                    "file": "output_433.json"
+                },
+                {
+                    "file": "output_366.json"
+                },
+                {
+                    "file": "output_217.json"
+                },
+                {
+                    "file": "output_204.json"
+                },
+                {
+                    "file": "output_238.json"
+                },
+                {
+                    "file": "output_65.json"
+                },
+                {
+                    "file": "output_385.json"
+                },
+                {
+                    "file": "output_57.json"
+                },
+                {
+                    "file": "output_248.json"
+                },
+                {
+                    "file": "output_166.json"
+                },
+                {
+                    "file": "output_205.json"
+                },
+                {
+                    "file": "output_176.json"
+                },
+                {
+                    "file": "output_329.json"
+                },
+                {
+                    "file": "output_503.json"
+                },
+                {
+                    "file": "output_152.json"
+                },
+                {
+                    "file": "output_301.json"
+                },
+                {
+                    "file": "output_175.json"
+                },
+                {
+                    "file": "output_377.json"
+                },
+                {
+                    "file": "output_302.json"
+                },
+                {
+                    "file": "output_478.json"
+                },
+                {
+                    "file": "output_293.json"
+                },
+                {
+                    "file": "output_103.json"
+                },
+                {
+                    "file": "output_515.json"
+                },
+                {
+                    "file": "output_416.json"
+                },
+                {
+                    "file": "output_233.json"
+                },
+                {
+                    "file": "output_497.json"
+                },
+                {
+                    "file": "output_201.json"
+                },
+                {
+                    "file": "output_354.json"
+                },
+                {
+                    "file": "output_372.json"
+                },
+                {
+                    "file": "output_488.json"
+                },
+                {
+                    "file": "output_219.json"
+                },
+                {
+                    "file": "output_296.json"
+                },
+                {
+                    "file": "output_115.json"
+                },
+                {
+                    "file": "output_421.json"
+                },
+                {
+                    "file": "output_89.json"
+                },
+                {
+                    "file": "output_449.json"
+                },
+                {
+                    "file": "output_473.json"
+                },
+                {
+                    "file": "output_236.json"
+                },
+                {
+                    "file": "output_405.json"
+                },
+                {
+                    "file": "output_230.json"
+                },
+                {
+                    "file": "output_299.json"
+                },
+                {
+                    "file": "output_181.json"
+                },
+                {
+                    "file": "output_149.json"
+                },
+                {
+                    "file": "output_283.json"
+                },
+                {
+                    "file": "output_60.json"
+                },
+                {
+                    "file": "output_289.json"
+                },
+                {
+                    "file": "output_507.json"
+                },
+                {
+                    "file": "output_369.json"
+                },
+                {
+                    "file": "output_448.json"
+                },
+                {
+                    "file": "output_123.json"
+                },
+                {
+                    "file": "output_436.json"
+                },
+                {
+                    "file": "output_197.json"
+                },
+                {
+                    "file": "output_144.json"
+                },
+                {
+                    "file": "output_287.json"
+                },
+                {
+                    "file": "output_469.json"
+                },
+                {
+                    "file": "output_396.json"
+                },
+                {
+                    "file": "output_402.json"
+                },
+                {
+                    "file": "output_333.json"
+                },
+                {
+                    "file": "output_2.json"
+                },
+                {
+                    "file": "output_365.json"
+                },
+                {
+                    "file": "output_263.json"
+                },
+                {
+                    "file": "output_200.json"
+                },
+                {
+                    "file": "output_133.json"
+                },
+                {
+                    "file": "output_135.json"
+                },
+                {
+                    "file": "output_341.json"
+                },
+                {
+                    "file": "output_509.json"
+                },
+                {
+                    "file": "output_256.json"
+                },
+                {
+                    "file": "output_400.json"
+                },
+                {
+                    "file": "output_491.json"
+                },
+                {
+                    "file": "output_382.json"
+                },
+                {
+                    "file": "output_20.json"
+                },
+                {
+                    "file": "output_453.json"
+                },
+                {
+                    "file": "output_425.json"
+                },
+                {
+                    "file": "output_424.json"
+                },
+                {
+                    "file": "output_407.json"
+                },
+                {
+                    "file": "output_53.json"
+                },
+                {
+                    "file": "output_435.json"
+                },
+                {
+                    "file": "output_465.json"
+                },
+                {
+                    "file": "output_4.json"
+                },
+                {
+                    "file": "output_73.json"
+                },
+                {
+                    "file": "output_477.json"
+                },
+                {
+                    "file": "output_93.json"
+                },
+                {
+                    "file": "output_495.json"
+                },
+                {
+                    "file": "output_25.json"
+                },
+                {
+                    "file": "output_444.json"
+                },
+                {
+                    "file": "output_381.json"
+                },
+                {
+                    "file": "output_119.json"
+                },
+                {
+                    "file": "output_331.json"
+                },
+                {
+                    "file": "output_423.json"
+                },
+                {
+                    "file": "output_79.json"
+                },
+                {
+                    "file": "output_77.json"
+                },
+                {
+                    "file": "output_30.json"
+                },
+                {
+                    "file": "output_40.json"
+                },
+                {
+                    "file": "output_408.json"
+                },
+                {
+                    "file": "output_378.json"
+                },
+                {
+                    "file": "output_290.json"
+                },
+                {
+                    "file": "output_513.json"
+                },
+                {
+                    "file": "output_275.json"
+                },
+                {
+                    "file": "output_484.json"
+                },
+                {
+                    "file": "output_35.json"
+                },
+                {
+                    "file": "output_380.json"
+                },
+                {
+                    "file": "output_258.json"
+                },
+                {
+                    "file": "output_245.json"
+                },
+                {
+                    "file": "output_505.json"
+                },
+                {
+                    "file": "output_292.json"
+                },
+                {
+                    "file": "output_340.json"
+                },
+                {
+                    "file": "output_210.json"
+                },
+                {
+                    "file": "output_278.json"
+                },
+                {
+                    "file": "output_388.json"
+                },
+                {
+                    "file": "output_320.json"
+                },
+                {
+                    "file": "output_457.json"
+                },
+                {
+                    "file": "output_475.json"
+                },
+                {
+                    "file": "output_467.json"
+                },
+                {
+                    "file": "output_69.json"
+                },
+                {
+                    "file": "output_182.json"
+                },
+                {
+                    "file": "output_512.json"
+                },
+                {
+                    "file": "output_300.json"
+                },
+                {
+                    "file": "output_138.json"
+                },
+                {
+                    "file": "output_511.json"
+                },
+                {
+                    "file": "output_499.json"
+                },
+                {
+                    "file": "output_276.json"
+                },
+                {
+                    "file": "output_489.json"
+                },
+                {
+                    "file": "output_206.json"
+                },
+                {
+                    "file": "output_222.json"
+                },
+                {
+                    "file": "output_226.json"
+                },
+                {
+                    "file": "output_247.json"
+                },
+                {
+                    "file": "output_364.json"
+                },
+                {
+                    "file": "output_131.json"
+                },
+                {
+                    "file": "output_508.json"
+                },
+                {
+                    "file": "output_504.json"
+                },
+                {
+                    "file": "output_441.json"
+                },
+                {
+                    "file": "output_5.json"
+                },
+                {
+                    "file": "output_235.json"
+                },
+                {
+                    "file": "output_337.json"
+                },
+                {
+                    "file": "output_363.json"
+                },
+                {
+                    "file": "output_426.json"
+                },
+                {
+                    "file": "output_298.json"
+                },
+                {
+                    "file": "output_308.json"
+                },
+                {
+                    "file": "output_273.json"
+                },
+                {
+                    "file": "output_482.json"
+                },
+                {
+                    "file": "output_250.json"
+                },
+                {
+                    "file": "output_265.json"
+                },
+                {
+                    "file": "output_98.json"
+                },
+                {
+                    "file": "output_80.json"
+                },
+                {
+                    "file": "output_437.json"
+                },
+                {
+                    "file": "output_490.json"
+                },
+                {
+                    "file": "output_472.json"
+                },
+                {
+                    "file": "output_348.json"
+                },
+                {
+                    "file": "output_397.json"
+                },
+                {
+                    "file": "output_95.json"
+                },
+                {
+                    "file": "output_294.json"
+                },
+                {
+                    "file": "output_297.json"
+                },
+                {
+                    "file": "output_51.json"
+                },
+                {
+                    "file": "output_70.json"
+                },
+                {
+                    "file": "output_114.json"
+                },
+                {
+                    "file": "output_55.json"
+                },
+                {
+                    "file": "output_461.json"
+                },
+                {
+                    "file": "output_47.json"
+                },
+                {
+                    "file": "output_141.json"
+                },
+                {
+                    "file": "output_85.json"
+                },
+                {
+                    "file": "output_334.json"
+                },
+                {
+                    "file": "output_496.json"
+                },
+                {
+                    "file": "output_367.json"
+                },
+                {
+                    "file": "output_118.json"
+                },
+                {
+                    "file": "output_97.json"
+                },
+                {
+                    "file": "output_442.json"
+                },
+                {
+                    "file": "output_326.json"
+                },
+                {
+                    "file": "output_480.json"
+                },
+                {
+                    "file": "output_454.json"
+                },
+                {
+                    "file": "output_330.json"
+                },
+                {
+                    "file": "output_362.json"
+                },
+                {
+                    "file": "output_502.json"
+                },
+                {
+                    "file": "output_192.json"
+                },
+                {
+                    "file": "output_288.json"
+                },
+                {
+                    "file": "output_178.json"
+                },
+                {
+                    "file": "output_272.json"
+                },
+                {
+                    "file": "output_486.json"
+                },
+                {
+                    "file": "output_74.json"
+                },
+                {
+                    "file": "output_498.json"
+                },
+                {
+                    "file": "output_112.json"
+                },
+                {
+                    "file": "output_506.json"
+                },
+                {
+                    "file": "output_251.json"
+                },
+                {
+                    "file": "output_459.json"
+                },
+                {
+                    "file": "output_356.json"
+                },
+                {
+                    "file": "output_262.json"
+                },
+                {
+                    "file": "output_462.json"
+                },
+                {
+                    "file": "output_439.json"
+                },
+                {
+                    "file": "output_209.json"
+                },
+                {
+                    "file": "output_76.json"
+                },
+                {
+                    "file": "output_268.json"
+                },
+                {
+                    "file": "output_313.json"
+                },
+                {
+                    "file": "output_458.json"
+                },
+                {
+                    "file": "output_207.json"
+                },
+                {
+                    "file": "output_62.json"
+                },
+                {
+                    "file": "output_387.json"
+                },
+                {
+                    "file": "output_420.json"
+                },
+                {
+                    "file": "output_127.json"
+                },
+                {
+                    "file": "output_113.json"
+                },
+                {
+                    "file": "output_14.json"
+                },
+                {
+                    "file": "output_132.json"
+                },
+                {
+                    "file": "output_41.json"
+                },
+                {
+                    "file": "output_344.json"
+                },
+                {
+                    "file": "output_487.json"
+                },
+                {
+                    "file": "output_375.json"
+                },
+                {
+                    "file": "output_516.json"
+                }
+            ]
         }
-    },
-    "no_license": {
-        "count": 234
     },
     "installation": {
         "count": 105
     },
     "requirements": {
-        "count": 39
+        "count": 54
     },
     "download": {
-        "count": 12
+        "count": 18
     },
     "documentation": {
         "count": 86
-    },
-    "authors_id": {
-        "count": 0,
-        "files": [],
-        "ORCID_count": 0
     }
 }
