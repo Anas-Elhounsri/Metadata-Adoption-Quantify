@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/878193479.svg)](https://doi.org/10.5281/zenodo.14803005)
+
+
 > [!WARNING]
 > This is still in progress and subject to change, as additional requirements may arise.
 # Metadata-Adoption-Quantify
