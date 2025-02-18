@@ -197,4 +197,7 @@ If you choose to calculate the results of the cluster you will get the following
 }
 ```
 
+## Ackowlegement:
+<img src="logo.png" alt="logo" width="150"/>
 
+The authors acknowledge the OSCARS project, which has received funding from the European Commission's Horizon Europe Research and Innovation programme under grant agreement No. 101129751
