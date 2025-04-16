@@ -1,0 +1,54 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "applicationCategory": "Metadata",
+    "author": [
+        {
+            "affiliation": {
+                "name": "Ontology Engineering Group at Universidad Politécnica de Madrid",
+                "@type": "Organization"
+            },
+            "email": "elhounsri.anas@alumnos.upm.es",
+            "familyName": "El Hounsri",
+            "givenName": "Anas",
+            "@id": "_:author_1",
+            "@type": "Person"
+        },
+        {
+            "affiliation": {
+                "name": "Ontology Engineering Group at the Artificial Intelligence Department of the Computer Science Faculty of Universidad Politécnica de Madrid",
+                "@type": "Organization"
+            },
+            "email": "daniel.garijo@upm.es",
+            "familyName": "Garijo",
+            "givenName": "Daniel",
+            "@id": "https://orcid.org/0000-0003-0454-7145",
+            "@type": "Person"
+        }
+    ],
+    "codeRepository": "https://github.com/Anas-Elhounsri/Metadata-Adoption-Quantify.git",
+    "datePublished": "2025-02-04",
+    "description": "This is a repository of Python scripts for processing SOMEF output that were used to extract the necessary information to answer research questions regarding the adoption of FAIR principles for research software in scientific European clusters ",
+    "funder": {
+        "name": "European Commission’s Horizon Europe Research and Innovation programme",
+        "@type": "Organization"
+    },
+    "identifier": "10.5281/zenodo.14803019",
+    "keywords": [
+        "Metadata",
+        "Repository",
+        "FAIR"
+    ],
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "name": "Metadata Adoption Quantify",
+    "operatingSystem": "Windows",
+    "programmingLanguage": "Python3",
+    "referencePublication": [
+        {
+            "name": "Good practice versus reality: a landscape analysis of Research Software metadata adoption in European Open Science Clusters",
+            "@type": "ScholarlyArticle"
+        }
+    ],
+    "version": "1.0.0",
+    "funding": "No. 101129751",
+    "@type": "SoftwareSourceCode"
+}
